@@ -1,0 +1,196 @@
+{
+  "aportaciones": [
+    {
+      "title": "CONCEPTO",
+      "secondTitle": "Aportación",
+      "rows": [
+        {
+          "first": "Curso de Certificación en Solid Works para alumnos",
+          "second": "300.00"
+        },
+
+        { "first": "Examen Especial ", "second": "900.00" },
+
+        {
+          "first": "Resolución de equivalencia de Estudios",
+          "second": "1,500.00"
+        },
+
+        {
+          "first": "Temario Oficial Validado (sellado y firmado)",
+          "second": "60.00"
+        },
+
+        {
+          "first": "Inscripción Diplomado Industria Mueblera ",
+          "second": "650.00"
+        },
+
+        { "first": "Trámite para cambio de carrera", "second": "250.00" },
+
+        { "first": "Trámite para traslado estudiantil", "second": "250.00" },
+
+        { "first": "Trámite para cambio de modalidad", "second": "250.00" },
+
+        {
+          "first": "Día de retraso en devolución de libro al centro de información",
+          "second": "12.00"
+        },
+
+        {
+          "first": "Constancia de Estudios no concluidos",
+          "second": "35.00"
+        },
+
+        {
+          "first": "Constancia de Estudios con calificaciones",
+          "second": "60.00"
+        },
+
+        { "first": "Reexpedición de Boleta", "second": "35.00" },
+
+        { "first": "Relación de materias cursadas", "second": "60.00" },
+
+        { "first": "Cuota de cotejo de documentos", "second": "60.00" },
+
+        { "first": "Duplicado de credencial", "second": "150.00" },
+
+        { "first": "Impresiones (paquete de 20)", "second": "25.00" },
+
+        { "first": "Ceremonia de Graduación", "second": "1,700.00" },
+
+        { "first": "Certificado completo", "second": "400.00" },
+
+        { "first": "Certificado parcial", "second": "800.00" },
+
+        { "first": "Titulación", "second": "2,400.00" },
+
+        { "first": "Duplicado de Certificado", "second": "800.00" },
+
+        { "first": "Cambio de Modalidad", "second": "250.00" },
+
+        { "first": "Traslado", "second": "250.00" }
+      ]
+    },
+    {
+      "title": "MODALIDAD ESCOLARIZADA",
+      "secondTitle": "Aportación",
+      "rows": [
+        { "first": "Examen de Admisión", "second": "750.00" },
+
+        {
+          "first": "Inscripción nuevo ingreso escolarizado",
+          "second": "2,750.00"
+        },
+
+        {
+          "first": "Inscripción nuevo ingreso Ing. Civil escolarizado",
+          "second": "3,000.00"
+        },
+
+        {
+          "first": "Reinscripción semestre escolarizado ",
+          "second": "2,550.00"
+        },
+
+        {
+          "first": "Reinscripción semestre Ing. Civil escolarizado ",
+          "second": "3,000.00"
+        },
+
+        {
+          "first": "Curso Propedéutico sistema escolarizado ",
+          "second": "500.00"
+        },
+
+        {
+          "first": "Cuota de homologados: (seguro estudiantil, afiliaciones aportaciones obligatorias a eventos nacionales del TecNM, incluidas en inscripción y reinscripción).",
+          "second": "900.00"
+        },
+
+        {
+          "first": "Reinscripción de hijos de trabajadores",
+          "second": "34.10%"
+        },
+
+        {
+          "first": "Inscripción/Reinscripción segundo hermano en delante",
+          "second": "50%"
+        },
+
+        {
+          "first": "Reinscripción para prórroga de residencia",
+          "second": "850.00"
+        }
+      ]
+    },
+    {
+      "title": "MODALIDAD MIXTA",
+      "secondTitle": "Aportación",
+      "rows": [
+        { "first": "Examen de Admisión", "second": "750.00" },
+
+        {
+          "first": "Inscripcion y reinscripcion Educación Mixta y a Distancia",
+          "second": "3,500.00"
+        },
+
+        { "first": "Curso propedéutico Educación Mixta", "second": "1,500.00" }
+      ]
+    },
+    {
+      "title": "CATALOGO DE CURSOS DE VERANOS",
+      "secondTitle": "Aportación",
+      "rows": [
+        { "first": "Curso de verano de 48 Horas", "second": "960.00" },
+
+        { "first": "Curso de verano de 64 Horas", "second": "1,280.00" },
+
+        { "first": "Curso de verano de 80 Horas", "second": "1,600.00" },
+
+        { "first": "Curso de verano de 96 Horas", "second": "1,920.00" }
+      ]
+    },
+    {
+      "title": "CATALOGO DE INGLES",
+      "secondTitle": "Aportación",
+      "rows": [
+        { "first": "Examen de Colocación de inglés", "second": "150.00" },
+
+        { "first": "Curso de ingles modalidad presencial", "second": "500.00" },
+
+        {
+          "first": "Examen de acreditación de inglés plan de estudios 2015 y posteriores",
+          "second": "1500.00"
+        },
+
+        {
+          "first": "Examen de acreditación de inglés plan de estudios 2014 y anteriores",
+          "second": "850.00"
+        },
+
+        {
+          "first": "Curso de inglés para servicio externo (costo por hora por grupo de máximo 20 personas)",
+          "second": "650.00"
+        }
+      ]
+    },
+    {
+      "title": "CATALOGO DE SOUVENIR",
+      "secondTitle": "Aportación",
+      "rows": [
+        { "first": "Playeras", "second": "100.00" },
+
+        { "first": "Gorras", "second": "200.00" },
+
+        { "first": "Playeras tipo polo Dry fit", "second": "380.00" },
+
+        { "first": "Portallaves", "second": "65.00" },
+
+        { "first": "Calcamonias", "second": "15.00" },
+
+        { "first": "Llaveros", "second": "20.00" }
+      ]
+    }
+  ]
+}

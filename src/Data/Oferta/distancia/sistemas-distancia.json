@@ -1,0 +1,270 @@
+{
+  "id": "sistemas-distancia",
+  "title": "Sistemas Distancia",
+  "banner": "/image/oferta/Sistemas/banner.jpg",
+  "specialization": "Desarrollo Ágil de Software. Formar a profesionistas con conocimientos sólidos en las metodologías y técnicas que les permitan crear aplicaciones de software de una manera sistemática, controlada y eficiente aplicando un enfoque común para la entrega de software, formando equipos de desarrollo y operaciones colaborativos para crear, probar, implementar y monitorear aplicaciones con velocidad, calidad y control.",
+  "specializationImage": "/image/oferta/Sistemas/especializacion.jpg",
+  "labourMarket": "Analista programador, ingeniero de soporte técnico, comercializador del sistema de cómputo; y una vez que haya adquirido experiencia, director de centro de cómputo; así como el puesto de una gerencia, administrador de desarrollo de software, consultor, instructor e investigador.",
+  "labourMarketImage": "/image/oferta/Sistemas/campo.jpg",
+  "reticle": "/image/oferta/Sistemas/reticula.jpg",
+  "reticlePdf": "/doc/oferta/Sistemas/ReticulaSistemas22-02-2022.pdf",
+  "careerPlan": [
+    [
+      {
+        "doc": "/doc/oferta/Sistemas/1/CalculoDiferencial.pdf",
+        "title": "Cálculo Diferencial"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/1/FundamentosDeProgramacion.pdf",
+        "title": "Fundamentos de Programación"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/1/TallerDeEtica.pdf",
+        "title": "Taller de Ética"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/1/MatematicasDiscretas.pdf",
+        "title": "Matemáticas Discretas"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/1/FundamentosDeInvestigacion.pdf",
+        "title": "Fundamentos de Investigación"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/1/TallerDeAdministracion.pdf",
+        "title": "Taller de Administración"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Sistemas/2/CalculoIntegral.pdf",
+        "title": "Cálculo Integral"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/2/ProgramacionOrientadaaObjetos.pdf",
+        "title": "Programación Orientada a Objetos"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/2/ContabilidadFinanciera.pdf",
+        "title": "Contabilidad Financiera"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/2/Quimica.pdf",
+        "title": "Química"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/2/DesarrolloSustentable.pdf",
+        "title": "Desarrollo Sustentable"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/2/ProbabilidadyEstadistica.pdf",
+        "title": "Probabilidad y Estadística"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Sistemas/3/CalculoVectorial.pdf",
+        "title": "Cálculo Vectorial"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/3/EstructuraDeDatos.pdf",
+        "title": "Estructura de Datos"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/3/CulturaEmpresarial.pdf",
+        "title": "Cultura Empresarial"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/3/AlgebraLineal.pdf",
+        "title": "Álgebra Lineal"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/3/SistemasOperativosI.pdf",
+        "title": "Sistemas Operativos"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/3/FisicaGeneral.pdf",
+        "title": "Física General"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Sistemas/4/EcuacionesDiferenciales.pdf",
+        "title": "Ecuaciones Diferenciales"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/4/TopicosAvanzadosDeProgramacion.pdf",
+        "title": "Tópicos Avanzados de Programación"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/4/FundamentosDeBaseDeDatos.pdf",
+        "title": "Fundamentos de Bases de Datos"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/4/MetodosNumericos.pdf",
+        "title": "Métodos Numéricos"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/4/TallerDeSistemasOperativos.pdf",
+        "title": "Taller de Sistemas Operativos"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/4/PrincipiosElectricosyAplicacionesDigitales.pdf",
+        "title": "Principios Eléctricos y Aplicaciones Digitales"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Sistemas/5/InvestigacionDeOperaciones.pdf",
+        "title": "Investigación de Operaciones"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/5/FundamentosDeTelecomunicaciones.pdf",
+        "title": "Fundamentos de Telecomunicaciones"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/5/TallerDeBaseDeDatos.pdf",
+        "title": "Taller de Bases de Datos"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/5/Simulacion.pdf",
+        "title": "Simulación"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/5/FundamentosDeIngenieriaDeSoftware.pdf",
+        "title": "Fundamentos de Ingeniería de Software"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/5/ArquitecturaDeComputadoras.pdf",
+        "title": "Arquitectura de Computadoras"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Sistemas/6/LenguajesyAutomatasI.pdf",
+        "title": "Lenguajes y Autómatas"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/6/RedesDeComputadoras.pdf",
+        "title": "Redes de Computadoras"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/6/AdministracionDeBaseDeDatos.pdf",
+        "title": "Administración de Bases de Datos"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/6/Graficacion.pdf",
+        "title": "Graficación"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/6/IngenieriaDeSoftware.pdf",
+        "title": "Ingeniería de Software"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/6/LenguajesDeInterfaz.pdf",
+        "title": "Lenguajes de Interfaz"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Sistemas/7/LenguajesyAutomatasII.pdf",
+        "title": "Lenguajes y Autómatas II"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/7/ConmutacionyEnrutamientoEnRedesDeDatos.pdf",
+        "title": "Conmutación y Enrutamiento de Redes de Datos"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/7/GestionDeProyectosDeSoftware.pdf",
+        "title": "Gestión de Proyectos de Software"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/7/TallerDeInvestigacionI.pdf",
+        "title": "Taller de Investigación I"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/7/EstandaresDeCalidadSoftware.pdf",
+        "title": "Estándares de Calidad de Software"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/7/SistemasProgramables.pdf",
+        "title": "Sistemas Programables"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/7/ProgramacionWeb.pdf",
+        "title": "Programación Web"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Sistemas/8/ProgramacionLogicayFuncional.pdf",
+        "title": "Programación Lógica y Funcional"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/8/AdministracionDeRedes.pdf",
+        "title": "Administración de Redes"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/8/TecnologiasMovilesI.pdf",
+        "title": "Tecnologías Móviles I"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/8/TallerDeInvestigacionII.pdf",
+        "title": "Taller de Investigación II"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/8/InteligenciaArtificial.pdf",
+        "title": "Inteligencia Artificial"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/8/DesarrolloWebFullStack.pdf",
+        "title": "Desarrollo Web Full Stack"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Sistemas/9/TecnologiasMovilesII.pdf",
+        "title": "Tecnologías Móviles II"
+      },
+      {
+        "doc": "/doc/oferta/Sistemas/9/MetodologiasAgilesParaElDesarrolloDeSoftware.pdf",
+        "title": "Metodologías Ágiles Para el Desarrollo de Software"
+      },
+      { "doc": "/estudiantes/servicio-social", "title": "Servicio Social" },
+      {
+        "doc": "/estudiantes/actividades-complementarias",
+        "title": "Actividades Complementarias"
+      },
+      {
+        "doc": "/estudiantes/residencia",
+        "title": "Residencias Profesionales"
+      }
+    ]
+  ],
+  "accordions": [
+    {
+      "title": "Objetivo general",
+      "content": "Formar profesionistas líderes con visión estratégica y amplio sentido ético; capaz de diseñar, desarrollar, implementar y administrar tecnología computacional para aportar soluciones innovadoras en beneficio de la sociedad; en un contexto global, multidisciplinario y sostenible."
+    },
+    {
+      "title": "Perfil de egreso",
+      "content": "Aplica los conocimientos, habilidades, actitudes y valores que le permiten desarrollarse en el sector productivo y de servicios; diseñando, implementando y administrando los recursos informáticos y tecnológicos en un contexto global, multidisciplinario y sostenible."
+    },
+    {
+      "title": "Objetivos educacionales",
+      "content": "<b>OE1.</b> Los egresados tendrán la capacidad de gestionar las tecnologías de información en el sector productivo y/o servicios. <br /><br /> <b>OE2.</b> Los egresados desarrollaran la habilidad de colaborar en grupos multidisciplinarios para la solución de problemas en diferentes ámbitos.<br /><br /> <b>OE1-CD1.</b> <br /> <b>1.</b> Nuestros egresados ocuparan posiciones estratégicas en el sector público y/o privado.<br /> <b>2.</b>Nuestros egresados aportaran sus conocimientos, habilidades y aptitudes en empresas generadoras de productos y/o servicios.<br /><br /> <b>OE2-CD1</b> <br /> <b>1.</b> Nuestros egresados aportaran sus conocimientos, habilidades y aptitudes en grupos multidisciplinarios para la solución de problemas en diversos ámbitos."
+    },
+    {
+      "title": "Criterio de desempeño",
+      "content": "Los egresados serán capaces de otorgar servicios informáticos y técnicos en el sector público y privado."
+    },
+    {
+      "title": "Indicador de criterio de desempeño",
+      "content": "20% de los egresados prestaran servicios en empresas propias y 20% de los egresados ocuparan puestos de supervisores, jefes o coordinadores de área en Industria privada y o servicios públicos."
+    },
+    {
+      "title": "Ámbito que debe cubrir el egresado",
+      "content": "Desarrollarse en empresas del sector público y/o privado, de transformación o de servicios, principalmente realizando actividades de gestión, desarrollo e implementación de tecnologías de la información, así como en la promoción y activación de empresas de servicios profesionales."
+    }
+  ]
+}

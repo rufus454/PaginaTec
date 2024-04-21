@@ -1,0 +1,190 @@
+{
+  "id": "Estudiantes",
+  "title": "Estudiantes",
+  "subItems": [
+    {
+      "id": "ingles",
+      "title": "C.L.E (Inglés)",
+      "href": "https://cle-itdelicias.siapoa.com.mx",
+      "isTargetBlank": true,
+      "children": []
+    },
+    {
+      "id": "servicio-social",
+      "title": "Servicio Social",
+      "href": "/estudiantes/servicio-social",
+      "isTargetBlank": false,
+      "children": []
+    },
+    {
+      "id": "residencia",
+      "title": "Residencia",
+      "href": "/estudiantes/residencia",
+      "isTargetBlank": false,
+      "children": []
+    },
+    {
+      "id": "titulacion-integral",
+      "title": "Titulación Integral",
+      "href": "/estudiantes/titulacion-integral",
+      "isTargetBlank": false,
+      "children": []
+    },
+    {
+      "id": "acreditacion-ingles",
+      "title": "Acreditación de Inglés",
+      "href": "/estudiantes/acreditacion-ingles",
+      "isTargetBlank": false,
+      "children": []
+    },
+    {
+      "id": "actividades-complementarias",
+      "title": "Actividades Complementarias",
+      "href": "/estudiantes/actividades-complementarias",
+      "isTargetBlank": false,
+      "children": []
+    },
+    {
+      "id": "programa-de-asesorias",
+      "title": "Programa de Asesorías",
+      "href": "/estudiantes/programa-de-asesorias",
+      "isTargetBlank": false,
+      "children": []
+    },
+    {
+      "id": "tramites-escolares",
+      "title": "Trámites Escolares",
+      "href": "/estudiantes/tramites-escolares",
+      "isTargetBlank": false,
+      "children": []
+    },
+    {
+      "id": "seguro-facultativo-imss",
+      "title": "Seguro Facultativo IMSS",
+      "href": "/doc/estudiantes/Seguro/SOLICITUDALTASEGUROFACULTATIVOIMSS[4094].pdf",
+      "isTargetBlank": true,
+      "children": []
+    },
+    {
+      "id": "aportaciones",
+      "title": "Aportaciones",
+      "href": "/estudiantes/aportaciones",
+      "isTargetBlank": false,
+      "children": []
+    },
+    {
+      "id": "homologados",
+      "title": "Homologados",
+      "href": "/doc/estudiantes/Homologados/Homologados4.docx",
+      "isTargetBlank": true,
+      "children": []
+    },
+    {
+      "id": "reglamentos",
+      "title": "Reglamentos",
+      "href": "#reglamentos",
+      "isTargetBlank": false,
+      "children": [
+        {
+          "id": "nuevo-reglamento-estudiantil",
+          "title": "Nuevo Reglamento Estudiantil 2024",
+          "href": "/doc/estudiantes/Reglamentos/Reglamento_de_Estudiantes_del_TecNM.pdf",
+          "isTargetBlank": true,
+          "children": []
+        },
+        {
+          "id": "laboratorio-de-ciencias-basicas",
+          "title": "Laboratorio de Ciencias Básicas",
+          "href": "/doc/estudiantes/Reglamentos/ReglamentoCienciasBasicas.pdf",
+          "isTargetBlank": true,
+          "children": []
+        },
+        {
+          "id": "laboratorio-de-ciencias-basicas-quimica",
+          "title": "Laboratorio de Ciencias Básicas - Química",
+          "href": "/doc/estudiantes/Reglamentos/ReglamentoCienciasBasicasQuimica.pdf",
+          "isTargetBlank": true,
+          "children": []
+        },
+        {
+          "id": "laboratorio-de-sistemas-computacionales",
+          "title": "Laboratorio de Sistemas Computacionales",
+          "href": "/doc/estudiantes/Reglamentos/ReglamentoSistemas.pdf",
+          "isTargetBlank": true,
+          "children": []
+        },
+        {
+          "id": "laboratorio-de-ingenieria-industrial",
+          "title": "Laboratorio de Ingeniería Industrial",
+          "href": "/doc/estudiantes/Reglamentos/ReglamentoIndustrial.pdf",
+          "isTargetBlank": true,
+          "children": []
+        },
+        {
+          "id": "laboratorio-de-ciencias-economico-administrativo",
+          "title": "Laboratorio de Ciencias Económico Administrativo",
+          "href": "/doc/estudiantes/Reglamentos/ReglamentoEconomicoAdmin.pdf",
+          "isTargetBlank": true,
+          "children": []
+        },
+        {
+          "id": "laboratorio-de-ciencias-metal-mecanica",
+          "title": "Laboratorio de Ciencias Metal Mecánica",
+          "href": "/doc/estudiantes/Reglamentos/ReglamentoMetalMecanica.pdf",
+          "isTargetBlank": true,
+          "children": []
+        },
+        {
+          "id": "laboratorio-del-centro-de-informacion",
+          "title": "Laboratorio del Centro de Información",
+          "href": "/doc/estudiantes/Reglamentos/ReglamentoCentroInformacion.pdf",
+          "isTargetBlank": true,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "bibliotecas",
+      "title": "Bibliotecas",
+      "href": "#bibliotecas",
+      "isTargetBlank": false,
+      "children": [
+        {
+          "id": "e-libro",
+          "title": "eLibro",
+          "href": "https://elibro.net/es/lc/itdelicias/login_usuario/?next=/es/ereader/itdelicias/122933?page=29",
+          "isTargetBlank": true,
+          "children": []
+        },
+        {
+          "id": "biblioteca-virtual-tecnm",
+          "title": "Biblioteca Virtual TecNM",
+          "href": "https://www.tecnm.mx/?vista=TecNM_Virtual&tecnm_virtual=Bibliotecas",
+          "isTargetBlank": true,
+          "children": []
+        },
+        {
+          "id": "reglamento-e-libro",
+          "title": "Reglamento eLibro",
+          "href": "/doc/estudiantes/Reglamentos/ReglamentoELibro.pdf",
+          "isTargetBlank": true,
+          "children": []
+        },
+        {
+          "id": "laboratorio-del-centro-de-informacion",
+          "title": "Laboratorio del Centro de Información",
+          "href": "/doc/estudiantes/Reglamentos/ReglamentoCentroInformacion.pdf",
+          "isTargetBlank": true,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "becas",
+      "title": "Becas",
+      "href": "/estudiantes/becas",
+      "isTargetBlank": false,
+      "children": []
+    }
+  ]
+}

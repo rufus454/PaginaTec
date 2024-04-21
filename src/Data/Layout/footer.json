@@ -1,0 +1,50 @@
+{
+  "first": [
+    {
+      "text": "Participa",
+      "href": "https://participa.gob.mx/"
+    },
+    {
+      "text": "Publicaciones Oficiales",
+      "href": "https://www.gob.mx/publicaciones"
+    },
+    {
+      "text": "Marco Jurídico",
+      "href": "http://www.ordenjuridico.gob.mx/"
+    },
+    {
+      "text": "Plataforma Nacional de Transparencia",
+      "href": "https://consultapublicamx.inai.org.mx/vut-web/"
+    }
+  ],
+  "second": [
+    {
+      "text": "Portal de datos abiertos",
+      "href": "https://datos.gob.mx/"
+    },
+    {
+      "text": "Declaración de accesibilidad",
+      "href": "https://www.gob.mx/accesibilidad"
+    },
+    {
+      "text": "Aviso de privacidad integral",
+      "href": "https://www.gob.mx/privacidadintegral"
+    },
+    {
+      "text": "Aviso de privacidad simplificado",
+      "href": "https://www.gob.mx/privacidadsimplificado"
+    },
+    {
+      "text": "Términos y Condiciones",
+      "href": "https://www.gob.mx/terminos"
+    },
+    {
+      "text": "Política de seguridad",
+      "href": "https://www.gob.mx/terminos#medidas-seguridad-informacion"
+    },
+    {
+      "text": "Mapa de sitio",
+      "href": "https://www.gob.mx/sitemap"
+    }
+  ]
+}

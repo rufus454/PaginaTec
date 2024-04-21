@@ -1,0 +1,56 @@
+{
+  "dates": [
+    {
+      "description": "Inicio de entrega de fichas sistema escolarizado",
+      "date": "15 de febrero del 2024"
+    },
+    {
+      "description": "Fin de entrega de fichas sistema escolarizado",
+      "date": "28 de junio del 2024"
+    },
+    {
+      "description": "Examen de Admisión para el Sistema Escolarizado",
+      "date": "29 de junio del 2024"
+    },
+    {
+      "description": "Publicación de Resultados para el Sistema Escolarizado",
+      "date": "-"
+    },
+    {
+      "description": "Inscripciones para el Sistema Escolarizado",
+      "date": "-"
+    },
+    {
+      "description": "Curso Propedéutico para el Sistema Escolarizado",
+      "date": "-"
+    },
+    {
+      "description": "Inicio de entrega de fichas sistema mixto (Sabatino)",
+      "date": "15 de febrero del 2024"
+    },
+    {
+      "description": "Fin de entrega de fichas sistema mixto (Sabatino)",
+      "date": "21 de junio del 2024"
+    },
+    {
+      "description": "Examen de Admisión para el Sistema Mixto (Sabatino)",
+      "date": "22 de junio del 2024"
+    },
+    {
+      "description": "Publicación de Resultados para el Sistema Mixto (Sabatino)",
+      "date": "-"
+    },
+    {
+      "description": "Inscripciones para el Sistema Mixto (Sabatino)",
+      "date": "-"
+    },
+    {
+      "description": "Curso de inducción para el Sistema Mixto (Sabatino)",
+      "date": "-"
+    },
+    {
+      "description": "Mayores en informes en el Depto. Desarrollo Académico",
+      "date": "639 168-1321"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "icons": [
+    {
+      "title": "Plataforma de Moodle",
+      "url": "http://distancia.delicias.tecnm.mx/moodle",
+      "image": "/image/inicio/media/imoodle.png"
+    },
+    {
+      "title": "Sistema Integral de Información",
+      "url": "http://sii.itdelicias.edu.mx/",
+      "image": "/image/inicio/media/isii.png"
+    },
+    {
+      "title": "Sistema Integral de Gestión",
+      "url": "http://sig.itdelicias.edu.mx:8080",
+      "image": "/image/inicio/media/isig.png"
+    },
+    {
+      "title": "Ver Calendario",
+      "url": "/image/calendarios/Calendario202401_PendienteAutorizacion-4.jpg",
+      "image": "/image/inicio/media/calendario3.png"
+    },
+    {
+      "title": "Facebook Síguenos",
+      "url": "https://www.facebook.com/tecnologico.delicias",
+      "image": "/image/redes-sociales/facebook2.png"
+    },
+    {
+      "title": "Instagram Síguenos",
+      "url": "https://www.instagram.com/tecnologico.delicias/",
+      "image": "/image/redes-sociales/instagram.png"
+    },
+    {
+      "title": "Directorio Telefónico",
+      "url": "/image/banners/202303/1710Numero_Telefonicos.jpg",
+      "image": "/image/inicio/media/telefono.png"
+    }
+  ]
+}

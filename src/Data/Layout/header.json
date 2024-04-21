@@ -1,0 +1,20 @@
+{
+  "headers": [
+    {
+      "name": "Gobierno De Mexico",
+      "src": "/image/layout/header/logo-gobierno-de-mexico.png"
+    },
+    {
+      "name": "SEP",
+      "src": "/image/layout/header/logo-sep.png"
+    },
+    {
+      "name": "TecNM",
+      "src": "/image/layout/header/logo-tecnm.png"
+    },
+    {
+      "name": "ITD",
+      "src": "/image/layout/header/logo-tec-delicias.png"
+    }
+  ]
+}

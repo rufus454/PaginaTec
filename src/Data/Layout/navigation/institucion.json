@@ -1,0 +1,76 @@
+{
+  "id": "Institucion",
+  "title": "Institución",
+  "subItems": [
+    {
+      "id": "mensaje-de-la-directora",
+      "title": "Mensaje de la Directora",
+      "href": "/institucion/mensaje-de-la-directora",
+      "isTargetBlank": false,
+      "children": []
+    },
+    {
+      "id": "resena-historica",
+      "title": "Reseña Histórica",
+      "href": "/institucion/resena-historica",
+      "isTargetBlank": false,
+      "children": []
+    },
+    {
+      "id": "mision-vision-valores",
+      "title": "Misión, Visión y Valores",
+      "href": "/institucion/mision-vision-valores",
+      "isTargetBlank": false,
+      "children": []
+    },
+    {
+      "id": "logotipos",
+      "title": "Logotipos",
+      "href": "/institucion/logotipos",
+      "isTargetBlank": false,
+      "children": []
+    },
+    {
+      "id": "servicios",
+      "title": "Directorio de Servicios",
+      "href": "/institucion/servicios",
+      "isTargetBlank": false,
+      "children": []
+    },
+    {
+      "id": "plano-del-instituto",
+      "title": "Plano del Instituto",
+      "href": "/institucion/plano-del-instituto",
+      "isTargetBlank": false,
+      "children": []
+    },
+    {
+      "id": "programa-de-desarrollo-institucional",
+      "title": "Programa de Desarrollo Institucional",
+      "href": "/doc/Institucion/PDI2019-2024ITDELICIAS.pdf",
+      "isTargetBlank": true,
+      "children": []
+    },
+    {
+      "id": "organigrama",
+      "title": "Organigrama",
+      "href": "/institucion/organigrama",
+      "isTargetBlank": false,
+      "children": []
+    },
+    {
+      "id": "directorio",
+      "title": "Directorio",
+      "href": "/institucion/directorio",
+      "isTargetBlank": false,
+      "children": []
+    },
+    {
+      "id": "modelo-educativo",
+      "title": "Modelo Educativo",
+      "href": "/institucion/modelo-educativo",
+      "isTargetBlank": false,
+      "children": []
+    }
+  ]
+}

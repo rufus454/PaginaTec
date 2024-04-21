@@ -1,0 +1,28 @@
+{
+  "tramites": [
+    {
+      "src": "/image/estudiantes/estudios.jpg",
+      "alt": "Estudios",
+      "title": "Movilidad Estudiantil",
+      "href": "/estudiantes/movilidad-estudiantil"
+    },
+    {
+      "src": "/image/estudiantes/cambio.jpg",
+      "alt": "Cambio de Carrera",
+      "title": "Cambio de Carrera",
+      "href": "/estudiantes/cambio-de-carrera"
+    },
+    {
+      "src": "/image/estudiantes/traslado.jpg",
+      "alt": "Traslados",
+      "title": "Traslados",
+      "href": "/estudiantes/traslados"
+    },
+    {
+      "src": "/image/estudiantes/comite.jpg",
+      "alt": "Solicitud al Comité Académico",
+      "title": "Solicitud al Comité Académico",
+      "href": "/doc/estudiantes/Tramites/Solicitud_al_comite_academico.pdf"
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "id": "electromecanica",
+  "title": "Electromecánica",
+  "banner": "/image/oferta/Electro/banner.jpg",
+  "specialization": "Para aquellos interesados en realizar trabajos de instalación y reparación en equipos impulsados por computadora, convertirse en un técnico electromecánico puede ser una buena opción de carrera. Estos técnicos de ingeniería unen y calibran nuevas máquinas, como la fabricación de dispositivos robóticos.",
+  "specializationImage": "/image/oferta/Electro/especializacion.jpg",
+  "labourMarket": "Como ingeniero electromecánico, podrá desarrollar, reparar y actualizar sistemas mecánicos, construir y probar nuevas máquinas, liderar proyectos para mejorar la eficiencia de fabricación y producción, y comprender los mecanismos dentro de las máquinas de ensamblaje robótico.",
+  "labourMarketImage": "/image/oferta/Electro/campo.jpg",
+  "reticle": "/image/oferta/Electro/reticula.jpg",
+  "reticlePdf": "/doc/oferta/Electro/ReticulaElectromecanica22-02-2022.pdf",
+  "careerPlan": [
+    [
+      {
+        "doc": "/doc/oferta/Electro/1/TallerDeEtica.pdf",
+        "title": "Taller Ética"
+      },
+      {
+        "doc": "/doc/oferta/Electro/1/CalculoDiferencial.pdf",
+        "title": "Cálculo Diferencial"
+      },
+      {
+        "doc": "/doc/oferta/Electro/1/AlgebraLineal.pdf",
+        "title": "Álgebra Lineal"
+      },
+      {
+        "doc": "/doc/oferta/Electro/1/IntroduccionaLaProgramacion.pdf",
+        "title": "Introducción a la Programación"
+      },
+      {
+        "doc": "/doc/oferta/Electro/1/Quimica.pdf",
+        "title": "Química"
+      },
+      {
+        "doc": "/doc/oferta/Electro/1/FundamentosDeInvestigacion.pdf",
+        "title": "Fundamentos de Investigación"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Electro/2/ProbabilidadyEstadistica.pdf",
+        "title": "Probabiliad y Estadística"
+      },
+      {
+        "doc": "/doc/oferta/Electro/2/Estatica.pdf",
+        "title": "Estática"
+      },
+      {
+        "doc": "/doc/oferta/Electro/2/DesarrolloSustentable.pdf",
+        "title": "Desarrollo Sustentable"
+      },
+      {
+        "doc": "/doc/oferta/Electro/2/CalculoIntegral.pdf",
+        "title": "Cálculo Integral"
+      },
+      {
+        "doc": "/doc/oferta/Electro/2/MetrologiayNormalizacion.pdf",
+        "title": "Metrología y Normalización"
+      },
+      {
+        "doc": "/doc/oferta/Electro/2/TecnologiaDeLosMateriales.pdf",
+        "title": "Tecnología de los Materiales"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Electro/3/Dinamica.pdf",
+        "title": "Dinámica"
+      },
+      {
+        "doc": "/doc/oferta/Electro/3/DibujoElectromecanico.pdf",
+        "title": "Dibujo Electromecánico"
+      },
+      {
+        "doc": "/doc/oferta/Electro/3/CalculoVectorial.pdf",
+        "title": "Cálculo Vectorial"
+      },
+      {
+        "doc": "/doc/oferta/Electro/3/ElectricidadyMagnetismo.pdf",
+        "title": "Electricidad y Magnetismo"
+      },
+      {
+        "doc": "/doc/oferta/Electro/3/ProcesosDeManufactura.pdf",
+        "title": "Procesos de Manufactura"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Electro/4/MecanicaDeMateriales.pdf",
+        "title": "Mecánica de Materiales"
+      },
+      {
+        "doc": "/doc/oferta/Electro/4/AnalisisySintesisDeMecanismos.pdf",
+        "title": "Análisis y Síntesis de Mecanismos"
+      },
+      {
+        "doc": "/doc/oferta/Electro/4/EcuacionesDiferenciales.pdf",
+        "title": "Ecuaciones Diferenciales"
+      },
+      {
+        "doc": "/doc/oferta/Electro/4/AnalisisDeCircuitosElectricosDeCD.pdf",
+        "title": "Análisis de Circuitos Eléctricos CD"
+      },
+      {
+        "doc": "/doc/oferta/Electro/4/ElectronicaAnalogica.pdf",
+        "title": "Electrónica Analógica"
+      },
+      {
+        "doc": "/doc/oferta/Electro/4/Termodinamica.pdf",
+        "title": "Termodinámica"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Electro/5/DisenoDeElementosDeMaquinas.pdf",
+        "title": "Diseño de Elementos de Máquinas"
+      },
+      {
+        "doc": "/doc/oferta/Electro/5/MecanicaDeFluidos.pdf",
+        "title": "Mecánica de Fluidos"
+      },
+      {
+        "doc": "/doc/oferta/Electro/5/AnalisisDeCircuitosElectricosDeCA.pdf",
+        "title": "Análisis de Circuitos Eléctricos CA"
+      },
+      {
+        "doc": "/doc/oferta/Electro/5/ElectronicaDigital.pdf",
+        "title": "Electrónica Digital"
+      },
+      {
+        "doc": "/doc/oferta/Electro/5/TransferenciaDeCalor.pdf",
+        "title": "Transferencia de Calor"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Electro/6/DisenoeIngenieriaAsistidosPorComputadora.pdf",
+        "title": "Diseño e Ingeniería Asistido por Computadoras"
+      },
+      {
+        "doc": "/doc/oferta/Electro/6/SistemasyMaquinasDeFluidos.pdf",
+        "title": "Sistemas y Máquinas de Fluidos"
+      },
+      {
+        "doc": "/doc/oferta/Electro/6/MaquinasElectricas.pdf",
+        "title": "Máquinas Eléctricas"
+      },
+      {
+        "doc": "/doc/oferta/Electro/6/InstalacionesElectricas.pdf",
+        "title": "Instalaciones Eléctricas"
+      },
+      {
+        "doc": "/doc/oferta/Electro/6/MaquinasyEquiposTermicosI.pdf",
+        "title": "Máquinas y Equipos Térmicos I"
+      },
+      {
+        "doc": "/doc/oferta/Electro/6/TallerDeInvestigacionI.pdf",
+        "title": "Taller de Investigación I"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Electro/7/AdministracionyTecnicasDeMantenimiento.pdf",
+        "title": "Administración y Técnicas de Mantenimiento"
+      },
+      {
+        "doc": "/doc/oferta/Electro/7/SistemasElectricosDePotencia.pdf",
+        "title": "Sistemas Eléctricos de Potencia"
+      },
+      {
+        "doc": "/doc/oferta/Electro/7/ControlesElectricos.pdf",
+        "title": "Controles Eléctricos"
+      },
+      {
+        "doc": "/doc/oferta/Electro/7/Instrumentación.pdf",
+        "title": "Instrumentación"
+      },
+      {
+        "doc": "/doc/oferta/Electro/7/MaquinasyEquiposTermicosII.pdf",
+        "title": "Máquinas y Equipo Térmicos II"
+      },
+      {
+        "doc": "/doc/oferta/Electro/7/TallerDeInvestigacionII.pdf",
+        "title": "Taller de Investigación II"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Electro/8/AhorroDeEnergia.pdf",
+        "title": "Ahorro de Energía"
+      },
+      {
+        "doc": "/doc/oferta/Electro/8/IngenieriaDeControlClasico.pdf",
+        "title": "Ingeniería de Control Clásico"
+      },
+      {
+        "doc": "/doc/oferta/Electro/8/SistemasHidraulicosyNeumaticosDePotencia.pdf",
+        "title": "Sistemas Hidráulico y Neumáticos de Potencia"
+      },
+      {
+        "doc": "/doc/oferta/Electro/8/SubestacionesElectricas.pdf",
+        "title": "Subestaciones Eléctricas"
+      },
+      {
+        "doc": "/doc/oferta/Electro/8/MaquinadoCNCI.pdf",
+        "title": "Maquinado CNC I"
+      },
+      {
+        "doc": "/doc/oferta/Electro/8/RefrigeracionyAireAcondicionado.pdf",
+        "title": "Refrigeración y Aire Acondición"
+      },
+      {
+        "doc": "/doc/oferta/Electro/8/FormulacionEvaluacionDeProyectos.pdf",
+        "title": "Formulación y Evaluación de Proyectos"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Electro/9/CalidadAplicada.pdf",
+        "title": "Calidad Aplicada"
+      },
+      {
+        "doc": "/doc/oferta/Electro/9/MaquinadoCNCII.pdf",
+        "title": "Maquinado CNC II"
+      },
+      {
+        "doc": "/doc/oferta/Electro/9/Automatizacion.pdf",
+        "title": "Automatización"
+      },
+      { "doc": "/estudiantes/servicio-social", "title": "Servicio Social" },
+      {
+        "doc": "/estudiantes/actividades-complementarias",
+        "title": "Actividades Complementarias"
+      },
+      {
+        "doc": "/estudiantes/residencia",
+        "title": "Residencias Profesionales"
+      }
+    ]
+  ],
+  "accordions": [
+    {
+      "title": "Objetivo general",
+      "content": "Formar profesionistas de excelencia en Ingeniería Electromecánica, con actitud emprendedora, liderazgo y capacidad de: analizar, diagnosticar, diseñar, seleccionar, instalar, administrar, mantener e innovar sistemas electromecánicos, en forma eficiente, segura y económica, considerando las normas y estándares nacionales e internacionales de forma sustentable con plena conciencia ética, humanística y social."
+    },
+    {
+      "title": "Perfil de egreso",
+      "content": "Formula, gestiona y evalúa proyectos de ingeniería relacionados con sistemas y dispositivos en el área electromecánica, proponiendo soluciones con tecnologías de vanguardia, en el marco del desarrollo sustentable. <br /><br /> Diseña e implementa sistemas y dispositivos electromecánicos, utilizando estrategias para el uso eficiente de la energía en los sectores productivo y de servicios apegado a normas y acuerdos nacionales e internacionales vigentes.<br /><br /> Diseña e implementa estrategias y programas para el control y/o automatización de los procesos productivos y los dispositivos en los sistemas electromecánicos.<br /><br /> Proyectar, gestionar, implementar y controlar actividades de instalación y operación de los sistemas electromecánicos para hacer eficientes los procesos productivos.<br /><br /> Formula administra y supervisa programas de mantenimiento para la continuidad y optimización de procesos productivos.<br /><br /> Genera y participa en proyectos de investigación para el desarrollo científico y tecnológico contribuyendo al bienestar social.<br /><br /> Ejerce actitudes de liderazgo y de trabajo en equipo, para la toma de decisiones a partir de un sentido ético y profesional.<br /><br /> Asume una actitud emprendedora en la creación e incubación de empresas, para el desarrollo económico.<br /><br /> Aplica herramientas computacionales de acuerdo a las tecnologías de vanguardia, para el diseño, simulación y operación de sistemas electromecánicos acordes a la demanda del sector industrial.<br /><br /> Utiliza el lenguaje oral y escrito con claridad y fluidez para interactuar en distintos contextos sociales.<br /><br /> Comprende un segundo idioma para comunicar ideas e interpretar documentos de distinta índole."
+    },
+    {
+      "title": "Objetivos educacionales",
+      "content": "Los egresados demostraran iniciativa propia para analizar, diagnosticar, diseñar, seleccionar, instalar, administrar, mantener e innovar sistemas electromecánicos. Los egresados tendrán la capacidad de dirigir proyectos de forma eficiente, segura y económica, considerando las normas y estándares nacionales e internacionales de forma sustentable."
+    },
+    {
+      "title": "Criterio de desempeño",
+      "content": "Los egresados serán prestadores de servicios electromecánicos en el sector público y/o privado."
+    },
+    {
+      "title": "Indicador de criterio de desempeño",
+      "content": "Un 20% de los egresados prestaran sus servicios en empresas propias, mientras que otro 20% ocuparán puestos de supervisores, jefes o coordinadores de área en la iniciativa privada o servicio público."
+    },
+    {
+      "title": "Ámbito que debe cubrir el egresado",
+      "content": "Desarrollarse en organizaciones del sector público y privado, de transformación y de servicios, formulando, gestionando y evaluando proyectos del área electromecánica, proponiendo soluciones con tecnologías de vanguardia, aplicando la ética profesional y el desarrollo sustentable, así como la promoción y activación de empresas de servicios profesionales."
+    }
+  ]
+}

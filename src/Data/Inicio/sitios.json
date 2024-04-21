@@ -1,0 +1,32 @@
+{
+  "sites": [
+    {
+      "title": "Video Institucional",
+      "href": "#"
+    },
+    {
+      "title": "Sistema Integral de Información (SII)",
+      "href": "http://sii.itdelicias.edu.mx/"
+    },
+    {
+      "title": "Sistema Integral de Gestión (SIG)",
+      "href": "http://sig.itdelicias.edu.mx:8080/"
+    },
+    {
+      "title": "Sistema Seguimiento a Egresados (SSE)",
+      "href": "https://sse.delicias.tecnm.mx/"
+    },
+    {
+      "title": "Tutorías",
+      "href": "http://tutorias.delicias.tecnm.mx/"
+    },
+    {
+      "title": "Requisiciones",
+      "href": "http://requis.itdelicias.edu.mx/"
+    },
+    {
+        "title": "Comprobante de Pago",
+        "href": "https://portalautoservicios-tnm.sep.gob.mx/"
+    }
+  ]
+}

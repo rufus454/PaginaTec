@@ -1,0 +1,220 @@
+{
+  "id": "civil",
+  "title": "Civil",
+  "banner": "/image/oferta/Civil/banner.jpg",
+  "specialization": "Planificación, evaluación, administración y ejecución de proyectos. Estos ingenieros tienen mayor demanda en el área inmobiliaria.",
+  "specializationImage": "/image/oferta/Civil/especializacion.jpg",
+  "labourMarket": "Puede laborar como consultor, realizando funciones de: estudio, factibilidad, proyecto, dirección, inspección, auditoria, construcción, operación, mantenimiento, control, reparación, readecuación y refuncionalización.",
+  "labourMarketImage": "/image/oferta/Civil/campo.jpg",
+  "reticle": "/image/oferta/Civil/reticula.jpg",
+  "reticlePdf": "/doc/oferta/Civil/reticula_civil2.pdf",
+  "careerPlan": [
+    [
+      {
+        "doc": "/doc/oferta/Civil/1/Calculo_Diferencial.pdf",
+        "title": "Cálculo Diferencial"
+      },
+      {
+        "doc": "/doc/oferta/Civil/1/Taller_de_Etica.pdf",
+        "title": "Taller Ética"
+      },
+      {
+        "doc": "/doc/oferta/Civil/1/SOFTWARE_DE_INGENIERIA_CIVIL.pdf",
+        "title": "Software en Ing. Civil"
+      },
+      {
+        "doc": "/doc/oferta/Civil/1/DIBUJO_EN_INGENIERIA_CIVIL.pdf",
+        "title": "Dibujo en Ing. Civil"
+      },
+      {
+        "doc": "/doc/oferta/Civil/1/Fundamentos_de_Investigacion.pdf",
+        "title": "Fundamentos de Investigación"
+      },
+      { "doc": "/doc/oferta/Civil/1/Quimica.pdf", "title": "Química" }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Civil/2/Calculo_Integral.pdf",
+        "title": "Cálculo Integral "
+      },
+      {
+        "doc": "/doc/oferta/Civil/2/PROBABILIDAD_Y_ESTADISTICA.pdf",
+        "title": "Probabilidad y Estadística"
+      },
+      {
+        "doc": "/doc/oferta/Civil/2/Algebra_Lineal.pdf",
+        "title": "Álgebra Lineal"
+      },
+      { "doc": "/doc/oferta/Civil/2/TOPOGRAFÍA.pdf", "title": "Topografía" },
+      {
+        "doc": "/doc/oferta/Civil/2/MATERIALES_Y_PROCESOS_CONSTRUCTIVOS.pdf",
+        "title": "Materiales y Procesos Constructivos"
+      },
+      { "doc": "/doc/oferta/Civil/2/GEOLOGIA.pdf", "title": "Geología" }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Civil/3/Calculo_Vectorial.pdf",
+        "title": "Cálculo Vectorial "
+      },
+      { "doc": "/doc/oferta/Civil/3/ESTATICA.pdf", "title": "Estática " },
+      {
+        "doc": "/doc/oferta/Civil/3/MODELOS_DE_OPTIMIZACION_DE_RECURSOS.pdf",
+        "title": "Modelos de Optimización de Recursos"
+      },
+      {
+        "doc": "/doc/oferta/Civil/3/SISTEMAS_DE_TRANSPORTE.pdf",
+        "title": "Sistemas de Transporte"
+      },
+      { "doc": "/doc/oferta/Civil/3/CARRETERAS.pdf", "title": "Carreteras" },
+      {
+        "doc": "/doc/oferta/Civil/3/TECNOLOGIA_DEL_CONCRETO.pdf",
+        "title": "Tecnología del Concreto"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Civil/4/Ecuaciones_Diferenciales.pdf",
+        "title": "Ecuaciones Diferenciales"
+      },
+      { "doc": "/doc/oferta/Civil/4/DINAMICA.pdf", "title": "Dinámica" },
+      {
+        "doc": "/doc/oferta/Civil/4/MÉTODOS_NUMÉRICOS.pdf",
+        "title": "Métodos Numéricos"
+      },
+      {
+        "doc": "/doc/oferta/Civil/4/Fundamentos_de_la_Mecánica_de_los_Medios.pdf",
+        "title": "Fundamentos de la Mecánica de los Modelos Continuos"
+      },
+      {
+        "doc": "/doc/oferta/Civil/4/MAQUINARIA_PESADA_Y_MOVIMIENTO_DE_TIERRAS.pdf",
+        "title": "Maquinaría Pesada Y Movimiento de Tierra"
+      },
+      {
+        "doc": "/doc/oferta/Civil/4/MECANICA_DE_SUELOS.pdf",
+        "title": "Mecánica de Suelos"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Civil/5/Desarrollo_Sustentable.pdf",
+        "title": "Desarrollo Sustentable"
+      },
+      {
+        "doc": "/doc/oferta/Civil/5/HIDRAULICA_BASICA.pdf",
+        "title": "Hidráulica Básica"
+      },
+      {
+        "doc": "/doc/oferta/Civil/5/COSTOS_Y_PRESUPUESTOS.pdf",
+        "title": "Costos y Presupuestos"
+      },
+      {
+        "doc": "/doc/oferta/Civil/5/MECANICA_DE_SUELOS_APLICADA.pdf",
+        "title": "Mecánica de Materiales"
+      },
+      {
+        "doc": "/doc/oferta/Civil/5/Taller_de_Investigacion_I.pdf",
+        "title": "Taller de Investigación I"
+      },
+      {
+        "doc": "/doc/oferta/Civil/5/MECANICA_DE_SUELOS_APLICADA.pdf",
+        "title": "Mecánica de Suelos Aplicada"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Civil/6/INSTALACIONES_EN_LOS_EDIFICIOS.pdf",
+        "title": "Instalaciones en los Edificios"
+      },
+      {
+        "doc": "/doc/oferta/Civil/6/HIDRAULICA_DE_CANALES.pdf",
+        "title": "Hidráulica de Canales"
+      },
+      {
+        "doc": "/doc/oferta/Civil/6/ADMINISTRACION_DE_LA_CONSTRUCCION.pdf",
+        "title": "Administración de la Construcción"
+      },
+      {
+        "doc": "/doc/oferta/Civil/6/ANALISIS_ESTRUCTURAL.pdf",
+        "title": "Análisis Estructural"
+      },
+      {
+        "doc": "/doc/oferta/Civil/6/Taller_de_Investigacion_II.pdf",
+        "title": "Taller de Investigación II"
+      },
+      {
+        "doc": "/doc/oferta/Civil/6/DISEÑO_Y_CONSTRUCCION_DE_PAVIMENTOS.pdf",
+        "title": "Diseños y Contrucción de Pavimentos"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Civil/7/ABASTECIMIENTO_DE_AGUA.pdf",
+        "title": "Abastecimiento de Agua"
+      },
+      {
+        "doc": "/doc/oferta/Civil/7/HIDROLOGÍA_SUPERFICIAL.pdf",
+        "title": "Hidrología Superficial"
+      },
+      { "doc": "#", "title": "Materia de Especialidad" },
+      {
+        "doc": "/doc/oferta/Civil/7/ANALISIS_ESTRUCTURAL_AVANZADO.pdf",
+        "title": "Análisis Estructural Avanzado"
+      },
+      {
+        "doc": "/doc/oferta/Civil/7/FORMULACION_Y_EVALUACION_DE_PROYECTOS.pdf",
+        "title": "Formulación y Evaluación de Proyectos"
+      },
+      { "doc": "#", "title": "Materia de Especialidad" }
+    ],
+    [
+      { "doc": "#", "title": "Materia de Especialidad" },
+      {
+        "doc": "/doc/oferta/Civil/8/ALCANTARILLADO.pdf",
+        "title": "Alcantarillado"
+      },
+      { "doc": "#", "title": "Materia de Especialidad" },
+      {
+        "doc": "/doc/oferta/Civil/8/DISEÑO_DE_ELEMENTOS_DE_ACERO.pdf",
+        "title": "Diseño de Elementos de Acero"
+      },
+      {
+        "doc": "/doc/oferta/Civil/8/DISEÑO_DE_ELEMENTOS_DE_CONCRETO_REFORZADO.pdf",
+        "title": "Diseño de Elementos de Concreto Reforzado"
+      },
+      {
+        "doc": "/doc/oferta/Civil/8/DISEÑO_ESTRUCTURAL_DE_CIMENTACIONES.pdf",
+        "title": "Diseño Estructural de Cimentaciones"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Electro/9/CalidadAplicada.pdf",
+        "title": "Materia de Especialidad"
+      },
+      { "doc": "/estudiantes/servicio-social", "title": "Servicio Social" },
+      {
+        "doc": "/estudiantes/actividades-complementarias",
+        "title": "Actividades Complementarias"
+      },
+      {
+        "doc": "/estudiantes/residencia",
+        "title": "Residencias Profesionales"
+      }
+    ]
+  ],
+  "accordions": [
+    {
+      "title": "Objetivo general",
+      "content": "Formar profesionistas en ingeniería civil de manera integral, con visión humana, analítica, creativa y emprendedora, capaces de identificar y resolver problemas con eficiencia, eficacia y pertinencia, mediante la planeación, diseño, construcción, operación y conservación de obras de infraestructura, en el marco de la globalización, la sustentabilidad y la calidad, contribuyendo al desarrollo de la sociedad."
+    },
+    {
+      "title": "Perfil de egreso",
+      "content": " 1. Planea, proyecta, diseña, construye, opera y conserva obras hidráulicas y sanitarias, sistemas estructurales, vías terrestres, edificación y obras de infraestructura urbana industrial para el desarrollo de la sociedad.<br/> 2. Dirige equipos técnicos para determinar la factibilidad ambiental, económica, técnica y social de los proyectos de obras civiles.<br /> 3. Formula y ejecuta proyectos de investigación para el desarrollo tecnológico en el ámbito de la Ingeniería Civil.<br /> 4. Crea, adapta, innova y aplica tecnologías en los estudios, proyectos y construcción de obras civiles para los requerimientos de la sociedad.<br /> 5. Administra proyectos para optimizar el uso de los recursos en el logro de los objetivos de las obras civiles.<br /> 6. Emplea técnicas de control de calidad en los materiales y procesos constructivos para la seguridad y durabilidad de las obras de ingeniería civil.<br /> 7. Utiliza tecnologías de la información y comunicación para la optimización de los proyectos de Ingeniería Civil.<br /> 8. Emprende proyectos productivos pertinentes para el desarrollo sustentable de las comunidades."
+    },
+    {
+      "title": "Objetivos educacionales",
+      "content": "• El egresado tendrá la capacidad de analizar y solucionar problemas en proyectos de obras de infraestructura en cualquiera de sus etapas de acuerdo con su área de especialización.<br/>• El egresado tendrá la habilidad de dirigir personas y grupos de trabajo para la ejecución de proyectos de obras de infraestructura en cualquiera de sus etapas de acuerdo con su área de especialización.<br />• El egresado contribuye en el desarrollo de proyectos de obras de infraestructura en cualquiera de sus etapas, haciendo uso adecuado de los recursos y de las TIC.<br />• El egresado incorpora actividades de actualización disciplinar para la innovación en los proyectos de obras de infraestructura.<br />"
+    }
+  ]
+}

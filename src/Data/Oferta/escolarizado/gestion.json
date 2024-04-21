@@ -1,0 +1,246 @@
+{
+  "id": "gestion",
+  "title": "Gestión Empresarial",
+  "banner": "/image/oferta/Gestion/banner.jpg",
+  "specialization": "Te proporciona los conocimientos y habilidades necesarios para el dominio del proceso administrativo en empresas y organizaciones de alto nivel.",
+  "specializationImage": "/image/oferta/Gestion/especializacion.jpg",
+  "labourMarket": "El Ingeniero en Gestión Empresarial podrá desempeñar eficientemente funciones derivadas del área de producción, finanzas, recursos humanos, mercadotecnia y auditoría, asimismo podrá fungir como asesor o consultor de empresas, encargarse de la administración y gestión de empresas, públicas y privadas, diseñar productos de inversión, investigación de mercados, participar en la organización, planeación e integración organizacional de pequeñas y medianas empresas, además de desempeñarse como investigador y docente en instituciones educativas de nivel superior.",
+  "labourMarketImage": "/image/oferta/Gestion/campo.jpg",
+  "reticle": "/image/oferta/Gestion/reticula.png",
+  "reticlePdf": "/doc/oferta/Gestion/ReticulaGestion22-02-2022.pdf",
+  "careerPlan": [
+    [
+      {
+        "doc": "/doc/oferta/Gestion/1/CalculoDiferencial.pdf",
+        "title": "Cálculo Diferencial"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/1/FundamentosDeFisica.pdf",
+        "title": "Fundamentos de Física"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/1/FundamentosDeQuimica.pdf",
+        "title": "Fundamentos de Química"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/1/FundamentosDeGestionEmpresarial.pdf",
+        "title": "Fundamentos de Gestión Empresarial"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/1/DesarrolloHumano.pdf",
+        "title": "Desarrollo Humano"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/1/FundamentosDeInvestigacion.pdf",
+        "title": "Fundamentos de Investigación"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Gestion/2/CalculoIntegral.pdf",
+        "title": "Cálculo Integral"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/2/SoftwareDeAplicacionEjecutivo.pdf",
+        "title": "Software de Aplicación Ejecutivo"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/2/ContabilidadOrientadaaLosNegocios.pdf",
+        "title": "Contabilidad Orientada a los Negocios"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/2/DinamicaSocial.pdf",
+        "title": "Dinámica Social"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/2/TallerDeEtica.pdf",
+        "title": "Taller de Ética"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/2/LegislacionLaboral.pdf",
+        "title": "Legislación Laboral"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Gestion/3/AlgebraLineal.pdf",
+        "title": "Álgebra Lineal"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/3/ProbabilidadyEstadisticaDescriptiva.pdf",
+        "title": "Probabilidad y Estadística Descriptiva"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/3/CostosEmpresariales.pdf",
+        "title": "Costos Empresariales"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/3/HabilidadesDirectivasI.pdf",
+        "title": "Habilidades Directivas I"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/3/EconomiaEmpresarial.pdf",
+        "title": "Economía Empresarial"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/3/MarcoLegalDeLasOrganizaciones.pdf",
+        "title": "Marco Legal de las Organizaciones"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Gestion/4/InvestigacionDeOperaciones.pdf",
+        "title": "Investigación de Operaciones"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/4/EstadisticaInferencialI.pdf",
+        "title": "Estadística Inferencial I"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/4/InstrumentosDePresupuestacionEmpresarial.pdf",
+        "title": "Instrumentos de Presupuestación Empresarial"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/4/HabilidadesDirectivasII.pdf",
+        "title": "Habilidades Directivas II"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/4/EntornoMacroeconomico.pdf",
+        "title": "Entorno Macro-Económico"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/4/IngenieriaEconomica.pdf",
+        "title": "Ingeniería Económica"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Gestion/5/IngenieriaDeProcesos.pdf",
+        "title": "Ingeniería de Procesos"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/5/EstadisticaInferencialII.pdf",
+        "title": "Estadística Inferencial II"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/5/FinanzasDeLasOrganizaciones.pdf",
+        "title": "Finanzas en las Organizaciones"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/5/GestionDelCapitalHumano.pdf",
+        "title": "Gestión del Capital Humano"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/5/Mercadotecnia.pdf",
+        "title": "Mercadotecnia"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/5/TallerDeInvestigacionI.pdf",
+        "title": "Taller de Investigación I"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Gestion/6/AdministracionDeLaSaludySeguridadOcupacional.pdf",
+        "title": "Administración de la Salud y Seguridad Organizacional"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/6/GestionDeLaProduccionI.pdf",
+        "title": "Gestión de la Producción I"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/6/ElEmprendedoryLaInnovacion.pdf",
+        "title": "El Emprendedor y la Innovación"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/6/DisenoOrganizacional.pdf",
+        "title": "Diseño Organizacional"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/6/SistemasDeInformacionDeMercadotecnia.pdf",
+        "title": "Sistemas de Información de la Mercadotecnia"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/6/TallerDeInvestigacionII.pdf",
+        "title": "Taller de Investigación II"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Gestion/7/TramitesLegales.pdf",
+        "title": "Trámites legales y Gestion del Financiamento"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/7/GestionDeLaProduccionII.pdf",
+        "title": "Gestión de la Producción II"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/7/PlanDeNegocios.pdf",
+        "title": "Plan de Negocios"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/7/GestionEstrategica.pdf",
+        "title": "Gestión Estratégica"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/7/MercadotecniaElectronica.pdf",
+        "title": "Mercadotecnia Electrónica"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/7/DesarrolloSustentable.pdf",
+        "title": "Desarrollo Sustentable"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Gestion/8/GestionDeLosSistemasDeCalidad.pdf",
+        "title": "Gestión de Sistemas de Calidad"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/8/NegociosInternacionales.pdf",
+        "title": "Negocios Internacionales"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/8/CadenaDeSuministros.pdf",
+        "title": "Cadena de Suministro"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/8/RealacionesPublicasServicios.pdf",
+        "title": "Relaciones Públicas y Servicios"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/8/TallerDeSimulacionDeNegocios.pdf",
+        "title": "Taller de Simulador de Negocios"
+      },
+      {
+        "doc": "/doc/oferta/Gestion/8/CalidadAplicadaaLaGestionEmpresarial.pdf",
+        "title": "Calidad Aplicada a la Gestión Empresarial"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Gestion/9/ManufacturaEsbelta.pdf",
+        "title": "Manufactura Esbelta"
+      },
+      { "doc": "/estudiantes/servicio-social", "title": "Servicio Social" },
+      {
+        "doc": "/estudiantes/actividades-complementarias",
+        "title": "Actividades Complementarias"
+      },
+      {
+        "doc": "/estudiantes/residencia",
+        "title": "Residencias Profesionales"
+      }
+    ]
+  ],
+  "accordions": [
+    {
+      "title": "Objetivo general",
+      "content": "Formar profesionales que contribuyan a la gestión de empresas e innovación de procesos; así como al diseño, implementación y desarrollo de sistemas estratégicos de negocios, optimizando recursos en el entorno global, con ética y responsabilidad social."
+    },
+    {
+      "title": "Perfil de egreso",
+      "content": "1. Aplica habilidades directivas y de ingeniería en el diseño, gestión, fortalecimiento e innovación de las organizaciones para la toma de decisiones en forma efectiva, con una orientación sistémica y sustentable.<br/> 2. Diseña e innova estructuras administrativas y procesos, con base en las necesidades de las organizaciones para competir eficientemente en mercados globales.<br/> 3. Gestiona eficientemente los recursos de la organización con visión compartida, con el fin de suministrar bienes y servicios de calidad.<br/> 4. Aplica métodos cuantitativos y cualitativos en el análisis e interpretación de datos y modelado de sistemas en los procesos organizacionales, para la mejora continua atendiendo estándares de calidad mundial.<br/> 5. Diseña, y emprende nuevos negocios y proyectos empresariales sustentables en mercados competitivos, para promover el desarrollo.<br /> 6. Diseña e implementa estrategias de mercadotecnia basadas en información recopilada de fuentes primarias y secundarias, para incrementar la competitividad de las organizaciones.<br /> 7. Implementa planes y programas de seguridad e higiene para el fortalecimiento del entorno laboral.<br /> 8. Gestiona sistemas integrales de calidad para la mejora de los procesos, ejerciendo un liderazgo estratégico y un compromiso ético.<br /> 9. Aplica las normas legales para la creación y desarrollo de las organizaciones.<br /> 10. Dirige equipos de trabajo para la mejora continua y el crecimiento integral de las organizaciones.<br/> 11. Interpreta la información financiera para detectar oportunidades de mejora e inversión en un mundo global, que propicien la rentabilidad del negocio.<br /> 12. Utiliza las nuevas tecnologías de información y comunicación en la organización, para optimizar los procesos y la eficaz toma de decisiones.<br /> 13. Promueve el desarrollo del capital humano, para la realización de los objetivos organizacionales, dentro de un marco ético y un contexto multicultural.<br /> 14. Aplica métodos de investigación para desarrollar e innovar modelos, sistemas, procesos y productos en las diferentes dimensiones de la organización.<br /> 15. Gestiona la cadena de suministro de las organizaciones con un enfoque orientado a procesos para incrementar la productividad.<br/> 16. Analiza las variables económicas para facilitar la toma estratégica de decisiones en la organización. 17. Actúa como agente de cambio para facilitar la mejora continua y el desempeño de las organizaciones.<br /> 18. Aplica métodos, técnicas y herramientas para la solución de problemas en la gestión empresarial con una visión estratégica.<br />"
+    }
+  ]
+}

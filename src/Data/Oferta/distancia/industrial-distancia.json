@@ -1,0 +1,267 @@
+{
+  "id": "industrial-distancia",
+  "title": "Industrial Distancia",
+  "banner": "/image/oferta/Industrial/banner.jpg",
+  "specialization": "Formar profesionales, éticos, líderes, creativos y emprendedores en el área de Ingeniería Industrial; competente para diseñar, implantar, administrar, innovar y optimizar sistemas de producción de bienes y servicios; con un enfoque sistémico y sustentable en un entorno global.",
+  "specializationImage": "/image/oferta/Industrial/especializacion.jpg",
+  "labourMarket": "Son requeridos como parte fundamental de los procesos productivos. Algunas de las empresas más comunes en las que se desempeñan los ingenieros industriales son de manufactura textil, empresas de autopartes, aeropartes, metalmecánica, entre otros. También en empresas de servicio de logística: terrestre, aeroportuaria, marina, ferroviaria y plataformas logísticas.",
+  "labourMarketImage": "/image/oferta/Industrial/campo.jpg",
+  "reticle": "/image/oferta/Industrial/reticula.png",
+  "reticlePdf": "/doc/oferta/Industrial/ReticulaIndustrial22-02-2022.pdf",
+  "careerPlan": [
+    [
+      {
+        "title": "Cálculo Diferencial",
+        "doc": "/doc/oferta/Industrial/1/CalculoDiferencial.pdf"
+      },
+      {
+        "title": "Taller de Ética",
+        "doc": "/doc/oferta/Industrial/1/TallerDeEtica.pdf"
+      },
+      {
+        "title": "Química",
+        "doc": "/doc/oferta/Industrial/1/Quimica.pdf"
+      },
+      {
+        "title": "Taller de Herramientas Intelectuales",
+        "doc": "/doc/oferta/Industrial/1/TallerDeHerramientasIntelectuales.pdf"
+      },
+      {
+        "title": "Dibujo Industrial",
+        "doc": "/doc/oferta/Industrial/1Semestre/DibujoIndustrial.pdf"
+      },
+      {
+        "title": "Fundamentos de Investigación",
+        "doc": "/doc/oferta/Industrial/1/FundamentosDeInvestigacion.pdf"
+      }
+    ],
+    [
+      {
+        "title": "Cálculo Integral",
+        "doc": "/doc/oferta/Industrial/2/CalculoIntegral.pdf"
+      },
+      {
+        "title": "Electricidad y Electrónica Industrial",
+        "doc": "/doc/oferta/Industrial/2/ElectricidadyElectronicaIndustrial.pdf"
+      },
+      {
+        "title": "Probabilidad y Estadística",
+        "doc": "/doc/oferta/Industrial/2/ProbabilidadyEstadistica.pdf"
+      },
+      {
+        "title": "Propiedad de los Materiales",
+        "doc": "/doc/oferta/Industrial/2/PropiedadDeLosMateriales.pdf"
+      },
+      {
+        "title": "Ingeniería de Sistemas",
+        "doc": "/doc/oferta/Industrial/2/IngenieriaDeSistemas.pdf"
+      },
+      {
+        "title": "Análisis de la Realidad Nacional",
+        "doc": "/doc/oferta/Industrial/2/AnalisisDeLaRealidadNacional.pdf"
+      },
+      {
+        "title": "Taller de Liderazgo",
+        "doc": "/doc/oferta/Industrial/2/TallerDeLiderazgo.pdf"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Industrial/3/CalculoVectorial.pdf",
+        "title": "Cálculo Vectorial"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/3/EstudioDelTrabajoI.pdf",
+        "title": "Estudio del Trabajo I"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/3/EstadisticaInferencialI.pdf",
+        "title": "Estadística Inferencial I"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/3/MetrologiayNormalizacion.pdf",
+        "title": "Metrología y Normalización"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/3/AlgebraLineal.pdf",
+        "title": "Álgebra Lineal"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/3/Economia.pdf",
+        "title": "Economía"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Industrial/4/HigieneySeguridadIndustrial.pdf",
+        "title": "Higiene y Seguridad Industrial"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/4/EstudioDelTrabajoII.pdf",
+        "title": "Estudio del Trabajo II"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/4/EstadisticaInferencialII.pdf",
+        "title": "Estadística Inferencial II"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/4/ProcesosDeFabricacion.pdf",
+        "title": "Proceso de Fabricación"
+      },
+      { "doc": "/doc/oferta/Industrial/4/Fisica.pdf", "title": "Física" },
+      {
+        "doc": "/doc/oferta/Industrial/4/InvestigacionDeOperacionesI.pdf",
+        "title": "Investigación de Operaciones"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/4/AlgoritmosyLenguajesDeProgramacion.pdf",
+        "title": "Algoritmos y Lenguaje de Programación"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Industrial/5/AdministracionDeProyectos.pdf",
+        "title": "Administración de Proyectos"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/5/Ergonomia.pdf",
+        "title": "Ergonomía"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/5/ControlEstadisticoDeLaCalidad.pdf",
+        "title": "Control Estadístico de la Calidad"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/5/GestionDeCostos.pdf",
+        "title": "Gestión de Costos"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/5/DesarrolloSustentable.pdf",
+        "title": "Desarrollo Sustentable"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/5/InvestigacionDeOperacionesII.pdf",
+        "title": "Investigación de Operaciones II"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/5/AdministracionDeOperacionesI.pdf",
+        "title": "Administración de las Operaciones I"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Industrial/6/AdministracionDelMantenimiento.pdf",
+        "title": "Administración del Mantenimiento"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/6/Mercadotecnia.pdf",
+        "title": "Mercadotecnia"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/6/DisenoExperimentosAvanzados.pdf",
+        "title": "Diseño De Experimentos Avanzados"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/6/IngenieriaEconomica.pdf",
+        "title": "Ingeniería Económica"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/6/TallerDeInvestigacionI.pdf",
+        "title": "Taller de Investigación I"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/6/Simulacion.pdf",
+        "title": "Simulación"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/6/AdministracionDeOperacionesII.pdf",
+        "title": "Administración de las Operaciones II"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Industrial/7/PlaneacionyDisenoDeInstalaciones.pdf",
+        "title": "Planeación y Diseño de Instalaciones"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/7/SistemasDeManufactura.pdf",
+        "title": "Sistemas de Manufactura"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/7/PlaneacionFinanciera.pdf",
+        "title": "Planeación Financiera"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/7/TallerDeInvestigacionII.pdf",
+        "title": "Taller de Investigación II"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/7/DisenioAsistidoPorComputadora.pdf",
+        "title": "Diseño Asistido por Computadoras y Máquinas CNC"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/7/GestionDeLosSistemasDeCalidad.pdf",
+        "title": "Gestión de los Sistemas de Calidad"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Industrial/8/LogisticayCadenaDeSuministros.pdf",
+        "title": "Logística y Cadenas de Suministro"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/8/AuditoriaSistemasGestion.pdf",
+        "title": "Auditoria de Sistemas de Gestión"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/8/HerramientasLean.pdf",
+        "title": "Herramientas Lean"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/8/FormulacionyEvaluacionDeProyectos.pdf",
+        "title": "Formulación y Evaluación de Proyectos"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/8/IntroduccionIndustria4.pdf",
+        "title": "Introducción a la Industria 4.0"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/8/ManufacturaModerna.pdf",
+        "title": "Manufactura Moderna"
+      },
+      {
+        "doc": "/doc/oferta/Industrial/8/RelacionesIndustriales.pdf",
+        "title": "Relaciones Industriales"
+      }
+    ],
+    [
+      { "doc": "/estudiantes/servicio-social", "title": "Servicio Social" },
+      {
+        "doc": "/estudiantes/actividades-complementarias",
+        "title": "Actividades Complementarias"
+      },
+      {
+        "doc": "/estudiantes/residencia",
+        "title": "Residencias Profesionales"
+      }
+    ]
+  ],
+  "accordions": [
+    {
+      "title": "Objetivo general",
+      "content": "Formar profesionales, éticos, líderes, creativos y emprendedores en el área de Ingeniería Industrial; competente para diseñar, implantar, administrar, innovar y optimizar sistemas de producción de bienes y servicios; con un enfoque sistémico y sustentable en un entorno global."
+    },
+    {
+      "title": "Perfil de egreso",
+      "content": "Diseña, mejora e integra sistemas productivos de bienes y servicios aplicando tecnologías para su optimización.<br /><br /> Diseña, implementa y mejora sistemas de trabajo para elevar la productividad.<br /><br /> Implanta sistemas de calidad utilizando métodos estadísticos para mejorar la competitividad de las organizaciones.<br /><br /> Administra sistemas de mantenimiento en procesos de bienes y servicios para la optimización en el uso de los recursos.<br /><br /> Gestiona sistemas de seguridad, salud ocupacional de manera sustentable, en sistemas productivos de bienes y servicios atendiendo los lineamientos legales.<br /><br /> Formula, evalúa y gestiona proyectos de inversión, sociales y de transferencia de tecnología para el desarrollo regional.<br /><br />"
+    },
+    {
+      "title": "Objetivos educacionales",
+      "content": "<b>OE1.</b> Los Egresados gestionan sistemas de producción de bienes y servicios que involucran procesos industriales con visión innovadora, haciendo uso eficiente y sustentable de los recursos productivos.<br /><br /> <b>OE2.</b> Los egresados diseñan, implementan y administran sistemas productivos, capaces de responder a un mundo globalizado, usando eficientemente los recursos de la organización y herramientas modernas de ingeniería.<br /><br /> <b>OE1-CD1. </b> Los egresados ocuparán puestos gerenciales en empresas públicas y privadas.<br /><br /> <b>OE1-CD1-I1.</b> 10% de los egresados ocuparán puestos tales como: supervisor general, gerente de departamento, superintendente, gerente de planta."
+    },
+    {
+      "title": "Ámbito que debe cubrir el egresado",
+      "content": "Desarrollarse en empresas del sector público o privado, de transformación y de servicio, Diseñar tecnología aplicable a distintos procesos productivos, gestionar propuestas para la solución de problemas de calidad y productividad aplicando la mejora continua, así como en la promoción y activación de empresas de servicios profesionales."
+    }
+  ]
+}

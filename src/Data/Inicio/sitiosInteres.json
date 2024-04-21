@@ -1,0 +1,64 @@
+{
+  "sites": [
+    {
+      "name": "SII",
+      "image": "/image/inicio/interes/TecNM_SII.png",
+      "url": "http://sii.itdelicias.edu.mx/' target='_blank"
+    },
+    {
+      "name": "Tutorias",
+      "image": "/image/inicio/interes/Tutorias_TecNM.png",
+      "url": "http://tutorias.delicias.tecnm.mx/"
+    },
+    {
+      "name": "Bolsa Institucional",
+      "image": "/image/inicio/interes/TecNM_BolsaInstitucional.png",
+      "url": "/vinculacion/ofertas-de-trabajo"
+    },
+    {
+      "name": "Moodle",
+      "image": "/image/inicio/interes/Moodle_TecNM.png",
+      "url": "http://distancia.delicias.tecnm.mx/moodle/"
+    },
+    {
+      "name": "SSE",
+      "image": "/image/inicio/interes/Tecnm_Egresados.png",
+      "url": "https://sse.delicias.tecnm.mx/"
+    },
+    {
+      "name": "OCC",
+      "image": "/image/inicio/interes/TecNM_BolsaTrabajo.png",
+      "url": "https://tecnm.occ.com.mx/Bolsa_Trabajo"
+    },
+    {
+      "name": "Contraloria",
+      "image": "/image/inicio/interes/contraloria2023.png",
+      "url": "/contraloria-social"
+    },
+    {
+      "name": "TecNM",
+      "image": "/image/inicio/interes/TecNM_Construye.png",
+      "url": "https://tecnm.mx/"
+    },
+    {
+      "name": "Conacyt",
+      "image": "/image/inicio/interes/conacyt2.png",
+      "url": "https://www.conacyt.gob.mx/"
+    },
+    {
+      "name": "Conricyt",
+      "image": "/image/inicio/interes/CONRICYT.png",
+      "url": "https://www.conricyt.mx/"
+    },
+    {
+      "name": "INAI",
+      "image": "/image/inicio/interes/INAI.png",
+      "url": "http://www.ifai.org.mx/"
+    },
+    {
+      "name": "PNT",
+      "image": "/image/inicio/interes/PNT.png",
+      "url": "http://consultapublicamx.inai.org.mx:8080/vut-web/?idSujetoObigadoParametro=10009&amp;idEntidadParametro=33&amp;idSectorParametro=21"
+    }
+  ]
+}

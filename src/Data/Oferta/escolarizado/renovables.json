@@ -1,0 +1,250 @@
+{
+  "id": "renovables",
+  "title": "Energías Renovables",
+  "banner": "/image/oferta/Renovables/banner.jpg",
+  "specialization": "Formar especialistas con conocimientos, habilidad, competencias y actitudes que les permita diseñar e implementar sistemas orientados a procesos y servicios sustentables dentro de la energía solar, eólica, biomasa y mini hirdáulica con un enfoque de responsabilidad colectiva y social.",
+  "specializationImage": "/image/oferta/Renovables/especializacion.jpg",
+  "labourMarket": "Áreas de ingeniería, docencia, servicios, construcción y mantenimiento y consultoría, en los diferentes sectores económicos: de manufactura, servicios, industria privada y pública. Desarrollará sus competencias profesionales con un enfoque sustentable, aplicando sus habilidades en el diseño y desarrollo de sistemas de generación eléctrica mediante energías alternativas, en la administración de las actividades operativas y administrativas de una planta o empresa, incluyendo la implementación, desarrollo y control de proyectos.",
+  "labourMarketImage": "/image/oferta/Renovables/campo.jpg",
+  "reticle": "/image/oferta/Renovables/reticula.png",
+  "reticlePdf": "/doc/oferta/Renovables/ReticulaRenovables22-02-2022.pdf",
+  "careerPlan": [
+    [
+      {
+        "doc": "/doc/oferta/Renovables/1/Quimica.pdf",
+        "title": "Química"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/1/Programacion.pdf",
+        "title": "Programación"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/1/CalculoDiferencial.pdf",
+        "title": "Cálculo Diferencial"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/1/FundamentosDeInvestigacion.pdf",
+        "title": "Fundamentos de Investigación"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/1/Dibujo.pdf",
+        "title": "Dibujo"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/1/FuentesRenovablesDeEnergia.pdf",
+        "title": "Fuentes Renovables de Energía"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Renovables/2/Bioquimica.pdf",
+        "title": "Bioquímica"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/2/TecnologiaeIngenieriaDeMaterialesI.pdf",
+        "title": "Tecnología e Ingeniería de Materiales"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/2/CalculoVectorial.pdf",
+        "title": "Cálculo Vectorial"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/2/CalculoIntegral.pdf",
+        "title": "Cálculo Integral"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/2/TallerDeEtica.pdf",
+        "title": "Taller Ética"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/2/EstadisticayDisenoDeExperimentos.pdf",
+        "title": "Estadística y Diseño de Experimentos"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Renovables/3/Microbiologia.pdf",
+        "title": "Microbiología"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/3/AlgebraLineal.pdf",
+        "title": "Álgebra Lineal"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/3/Electromagnetismo.pdf",
+        "title": "Electromagnetismo"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/3/EstaticayDinamica.pdf",
+        "title": "Estática y Dinámica"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/3/TallerDeSistemasDeInformacionGeografica.pdf",
+        "title": "Taller de Sistemas de Información Geográfica"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/3/MetrologiaMecanicayElectrica.pdf",
+        "title": "Metrología Mecánica y Eléctrica"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Renovables/4/ComportamientoHumanoEnLasOrganizaciones.pdf",
+        "title": "Comportamiento Humano en las Organizaciones"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/4/OpticaySemiconductores.pdf",
+        "title": "Óptica y Semiconductores"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/4/CircuitosElectricosI.pdf",
+        "title": "Circuitos Eléctricos I"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/4/ResistenciaDeMateriales.pdf",
+        "title": "Resistencia de Materiales"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/4/EcuacionesDiferenciales.pdf",
+        "title": "Ecuaciones Diferenciales"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/4/Termodinamica.pdf",
+        "title": "Termodinámica"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Renovables/5/Biocombustibles.pdf",
+        "title": "Biocombustibles"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/5/MarcoJuridicoEnGestionEnergetica.pdf",
+        "title": "Marco Jurídico en Gestión Energética"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/5/CircuitosElectricosII.pdf",
+        "title": "Circuitos Eléctricos II"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/5/DesarrolloSustentable.pdf",
+        "title": "Desarrollo Sustentable"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/5/MecanicaDeFluidos.pdf",
+        "title": "Mecánica de Fluidos"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/5/TransferenciaDeCalor.pdf",
+        "title": "Transferencia de Calor"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Renovables/6/TallerDeInvestigacionI.pdf",
+        "title": "Taller de Investigación I"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/6/InstalacionesElectricaseIluminacion.pdf",
+        "title": "Instalaciones Eléctricas e Iluminación"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/6/MaquinasElectricas.pdf",
+        "title": "Máquinas Eléctricas"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/6/MaquinasHidraulicas.pdf",
+        "title": "Máquinas Hidráulicas"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/6/RefrigeracionyAireAcondicionado.pdf",
+        "title": "Refrigeración y Aire Acondicionado"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/6/EnergiaEolica.pdf",
+        "title": "Energía Eólica"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Renovables/7/TallerDeInvestigacionII.pdf",
+        "title": "Taller de Investigación II"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/7/SistemasSolaresFotovoltaicosyTermicos.pdf",
+        "title": "Sistemas Solares Fotovoltaicos y Térmicos"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/7/SimulacionDeSistemasDeEnergiasRenovables.pdf",
+        "title": "Simulación de Sistemas de Energías Renovables"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/7/Electronica.pdf",
+        "title": "Electrónica"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/7/Instrumentacion.pdf",
+        "title": "Instrumentación"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/7/SistemasTermicos.pdf",
+        "title": "Sistemas Térmicos"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Renovables/8/FormulacionyEvaluacionDeProyectosDeEnergiasRenovables.pdf",
+        "title": "Formulación y Evaluación de Proyectos de Energías Renovables"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/8/ControlesElectricos.pdf",
+        "title": "Controles Eléctricos"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/8/DisenioEolico.pdf",
+        "title": "Diseño Eólico"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/8/AdministracionyTecnicasDeConservacion.pdf",
+        "title": "Administración y Técnicas de Conservación"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/8/AuditoriaEnergetica.pdf",
+        "title": "Auditoría Energética"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/8/GestionDeEmpresasDeEnergiasRenovables.pdf",
+        "title": "Gestión de Empresas de Energías Renovables"
+      }
+    ],
+    [
+      {
+        "doc": "/doc/oferta/Renovables/9/DisenioSolarTermico.pdf",
+        "title": "Diseño Solar Térmico"
+      },
+      {
+        "doc": "/doc/oferta/Renovables/9/DisenioSolarFotovoltaico.pdf",
+        "title": "Diseño Solar Fotovoltaico"
+      },
+      { "doc": "/estudiantes/servicio-social", "title": "Servicio Social" },
+      {
+        "doc": "/estudiantes/actividades-complementarias",
+        "title": "Actividades Complementarias"
+      },
+      {
+        "doc": "/estudiantes/residencia",
+        "title": "Residencias Profesionales"
+      }
+    ]
+  ],
+  "accordions": [
+    {
+      "title": "Objetivo general",
+      "content": "Formar profesionales que desarrollen proyectos de generación, transformación, almacenamiento y gestión de energía proveniente de fuentes renovables; competentes en el diseño, implementación y evaluación de tecnologías limpias para el uso eficiente de la energía en el entorno nacional e internacional."
+    },
+    {
+      "title": "Perfil profesional",
+      "content": "<b>1.</b> Formula, evalúa y renovables a estrategias en proyectos de energía renovable con base a la normatividad vigente, para promover la eficiencia y la sustentabilidad energética.<br><br> <b>2.</b> Diseña e implementa sistemas energéticos renovables para promover la competitividad de los sectores productivos. <br><br> <b>3.</b> Analiza y evalúa la factibilidad de implementar procesos derivados de actividades de transformación y producción para el tratamiento de subproductos orgánicos. <br><br> <b>4.</b> Diseña, implementa y evalúa sistemas de generación eléctrica con fuentes alternativas para operar de forma aislada o interconectada a la red eléctrica. <br><br> <b>5.</b> Aplica habilidades para establecer su propia empresa contribuyendo al desarrollo social, económico, tecnológico y ambiental de su entorno. <br><br> <b>6.</b> Diseña proyectos de investigación, desarrollo e innovación tecnológica, relacionados con la energía proveniente de fuentes renovables para optimizar los recursos energéticos. <br><br> <b>7.</b> Identifica y evalúa el recurso energético renovable disponible en el entorno para la producción de energía con calidad. <br><br> <b>8.</b> Contribuye al desarrollo de transferencia de tecnologías limpias a los sectores productivos para prevenir y mitigar los efectos del cambio climático."
+    }
+  ]
+}

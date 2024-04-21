@@ -1,0 +1,41 @@
+{
+  "id": "Vinculacion",
+  "title": "Vinculación",
+  "subItems": [
+    {
+      "id": "vacantes-servicio-social",
+      "title": "Vacantes servicio social",
+      "href": "/vinculacion/vacantes-servicio-social",
+      "isTargetBlank": false,
+      "children": []
+    },
+    {
+      "id": "vacantes-residencia",
+      "title": "Vacantes residencia",
+      "href": "/vinculacion/vacantes-residencia",
+      "isTargetBlank": false,
+      "children": []
+    },
+    {
+      "id": "oferta-trabajo-egresados",
+      "title": "Oferta Trabajo Egresados",
+      "href": "/vinculacion/ofertas-de-trabajo",
+      "isTargetBlank": false,
+      "children": []
+    },
+    {
+      "id": "consejo",
+      "title": "Consejo",
+      "href": "/vinculacion/consejo",
+      "isTargetBlank": false,
+      "children": []
+    },
+    {
+      "id": "comite",
+      "title": "Comité",
+      "href": "/vinculacion/comite",
+      "isTargetBlank": false,
+      "children": []
+    }
+  ]
+}

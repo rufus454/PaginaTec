@@ -1,0 +1,41 @@
+{
+  "id": "Aspirantes",
+  "title": "Aspirantes",
+  "subItems": [
+    {
+      "id": "proceso-de-admision",
+      "title": "Proceso de Admisión",
+      "href": "/aspirantes/proceso-de-admision",
+      "isTargetBlank": false,
+      "children": []
+    },
+    {
+      "id": "becas-aspirantes",
+      "title": "Becas",
+      "href": "/aspirantes/becas",
+      "isTargetBlank": false,
+      "children": []
+    },
+    {
+      "id": "fechas-importantes",
+      "title": "Fechas Importantes",
+      "href": "/aspirantes/fechas-importantes",
+      "isTargetBlank": false,
+      "children": []
+    },
+    {
+      "id": "guia-examen-de-admision",
+      "title": "Guía examen de admisión",
+      "href": "/doc/Aspirantes/GuiaCOSNET.pdf",
+      "isTargetBlank": true,
+      "children": []
+    },
+    {
+      "id": "carreras",
+      "title": "Carreras",
+      "href": "/aspirantes/carreras",
+      "isTargetBlank": false,
+      "children": []
+    }
+  ]
+}

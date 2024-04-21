@@ -1,0 +1,76 @@
+{
+  "id": "Oferta-Educativa",
+  "title": "Oferta Educativa",
+  "subItems": [
+    {
+      "id": "escolarizado",
+      "title": "Escolarizado",
+      "href": "#escolarizado",
+      "isTargetBlank": false,
+      "children": [
+        {
+          "id": "ingenieria-industrial",
+          "title": "Ingeniería Industrial",
+          "href": "/oferta/industrial",
+          "isTargetBlank": false
+        },
+        {
+          "id": "ingenieria-electro",
+          "title": "Ingeniería Electromecánica",
+          "href": "/oferta/electromecanica",
+          "isTargetBlank": false
+        },
+        {
+          "id": "ingenieria-sistemas",
+          "title": "Ingeniería en Sistemas Computacionales",
+          "href": "/oferta/sistemas",
+          "isTargetBlank": false
+        },
+        {
+          "id": "ingenieria-gestion",
+          "title": "Ingeniería en Gestión Empresarial",
+          "href": "/oferta/gestion",
+          "isTargetBlank": false
+        },
+        {
+          "id": "ingenieria-renovables",
+          "title": "Ingeniería en Energías Renovables",
+          "href": "/oferta/renovables",
+          "isTargetBlank": false
+        },
+        {
+          "id": "ingenieria-civil",
+          "title": "Ingeniería Civil",
+          "href": "/oferta/civil",
+          "isTargetBlank": false
+        }
+      ]
+    },
+    {
+      "id": "distancia-mixto",
+      "title": "Distancia/Mixto",
+      "href": "#distancia-mixto",
+      "isTargetBlank": false,
+      "children": [
+        {
+          "id": "ingenieria-industrial",
+          "title": "Ingeniería Industrial",
+          "href": "/oferta/industrial-distancia",
+          "isTargetBlank": false
+        },
+        {
+          "id": "ingenieria-sistemas",
+          "title": "Ingeniería en Sistemas Computacionales",
+          "href": "/oferta/sistemas-distancia",
+          "isTargetBlank": false
+        },
+        {
+          "id": "ingenieria-gestion",
+          "title": "Ingeniería en Gestión Empresarial",
+          "href": "/oferta/gestion-distancia",
+          "isTargetBlank": false
+        }
+      ]
+    }
+  ]
+}

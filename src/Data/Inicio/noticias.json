@@ -1,0 +1,46 @@
+{
+  "notas": [
+    {
+      "id": "noticia-1",
+      "title": "RENDICIÓN DE CUENTAS 2023",
+      "description": "Este 16 de Febrero, nuestra directora la Maestra Lilian Karina Santiesteban Torres, presento su rendición de cuenta, donde estuvieron presentes Docentes, Administrativos y directivos de otras instituciones y organizaciones municipales y estatales. Donde presento las actividades y proyectos que se realizaron...",
+      "image": "/image/noticias/2024/02/16/00.jpg",
+      "href": "/noticias/20221202"
+    },
+    {
+      "id": "noticia-2",
+      "title": "PONTE LA CAMISTE 2024 MODALIDAD MIXTO",
+      "description": "El día de hoy, 10 de febrero del 2024, se realizó en las instalaciones del Instituto Tecnológico de Delicias, el evento de “Ponte la Camiseta” para la modalidad Mixta, donde estuvieron presentes, nuestra directora la Mtra. Lilian Karina Santiesteban",
+      "image": "/image/noticias/2024/02/10/00.jpg",
+      "href": "/noticias/20221202"
+    },
+    {
+      "id": "noticia-3",
+      "title": "INICIO DE ACTIVIDADES 2024",
+      "description": "El día de hoy 08 de enero del 2024, se realizó una emotiva y satisfactoria celebración de Inicio de actividades en el TecNM campus Delicias, encabezada por nuestra Directora, la Maestra Lilian Karina...",
+      "image": "/image/noticias/2024/01/08/00.jpg",
+      "href": "/noticias/20221202"
+    },
+    {
+      "id": "noticia-4",
+      "title": "CURSO EMPRESA MUEBLERA",
+      "description": "El sábado 21 de octubre concluyó exitosamente el Curso de Muebleros que se llevó a cabo en las instalaciones de nuestro campus. El Tecnológico de Delicias siempre tendrá las puertas abiertas...",
+      "image": "/image/noticias/2023/10/21/0.JPG",
+      "href": "/noticias/20221202"
+    },
+    {
+      "id": "noticia-5",
+      "title": "GRADUACIÓN 2019-2023",
+      "description": "Este 20 de octubre del 2023, se realizo la Graduación donde la institución hizo entrega de 88 profesionista de las diferentes carreras que se imparten en nuestra institución.",
+      "image": "/image/noticias/2023/10/20/0.JPG",
+      "href": "/noticias/20221202"
+    },
+    {
+      "id": "noticia-6",
+      "title": "Historial",
+      "description": "                                                                                                                                                                                                                                                                         ",
+      "image": "/image/noticias/historial.png",
+      "href": "/noticias/lista"
+    }
+  ]
+}

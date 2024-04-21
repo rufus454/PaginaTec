@@ -1,0 +1,163 @@
+{
+  "id": "Personal",
+  "title": "Personal",
+  "subItems": [
+    {
+      "id": "tutorias",
+      "title": "Tutorías",
+      "href": "/personal/tutorias",
+      "isTargetBlank": false,
+      "children": []
+    },
+    {
+      "id": "comprobante-de-pago",
+      "title": "Comprobante de Pago",
+      "href": "https://portalautoservicios-tnm.sep.gob.mx/login.jsp",
+      "isTargetBlank": true,
+      "children": []
+    },
+    {
+      "id": "gestion-del-curso",
+      "title": "Gestión del Curso",
+      "href": "#gestion-del-curso",
+      "isTargetBlank": false,
+      "children": [
+        {
+          "id": "instrumentacion-didactica",
+          "title": "Instrumentación Didáctica",
+          "href": "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.delicias.tecnm.mx%2Fdoc%2FPersonal%2FGestion%2520del%2520curso%2FInstrumentacionDidactica.xls&wdOrigin=BROWSELINK",
+          "isTargetBlank": true,
+          "children": []
+        },
+        {
+          "id": "reporte-final",
+          "title": "Reporte Final",
+          "href": "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.delicias.tecnm.mx%2Fdoc%2FPersonal%2FGestion%2520del%2520curso%2FReporteFinal.xls&wdOrigin=BROWSELINK",
+          "isTargetBlank": true,
+          "children": []
+        },
+        {
+          "id": "proyecto-individual",
+          "title": "Proyecto Individual",
+          "href": "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.delicias.tecnm.mx%2Fdoc%2FPersonal%2FGestion%2520del%2520curso%2FProyectoIndividual.doc&wdOrigin=BROWSELINK",
+          "isTargetBlank": true,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "lineamientos-academico-administrativos",
+      "title": "Lineamientos Académico Administrativos",
+      "href": "/doc/Personal/LineamientosAcademicoAdministrativos.pdf",
+      "isTargetBlank": true,
+      "children": []
+    },
+    {
+      "id": "vista-a-empresas",
+      "title": "Vista a Empresas",
+      "href": "#vista-a-empresas",
+      "isTargetBlank": false,
+      "children": [
+        {
+          "id": "solicitud",
+          "title": "Solicitud",
+          "href": "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.delicias.tecnm.mx%2Fdoc%2FPersonal%2FVisitas%2520a%2520empresas%2FSolicitudVisitas%2520.doc&wdOrigin=BROWSELINK",
+          "isTargetBlank": true,
+          "children": []
+        },
+        {
+          "id": "lista-de-estudiantes",
+          "title": "Lista de Estudiantes",
+          "href": "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.delicias.tecnm.mx%2Fdoc%2FPersonal%2FVisitas%2520a%2520empresas%2FListaEstudiantesAutorizada.doc&wdOrigin=BROWSELINK",
+          "isTargetBlank": true,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "normateca",
+      "title": "Normateca",
+      "href": "#normateca",
+      "isTargetBlank": false,
+      "children": [
+        {
+          "id": "reglamento-docente",
+          "title": "Reglamento Docente",
+          "href": "/doc/Personal/Normateca/ReglamentoDocente.pdf",
+          "isTargetBlank": true,
+          "children": []
+        },
+        {
+          "id": "reglamento-no-docente",
+          "title": "Reglamento No Docente",
+          "href": "/doc/Personal/Normateca/ReglamentoNoDocente.pdf",
+          "isTargetBlank": true,
+          "children": []
+        },
+        {
+          "id": "constitucion-politica",
+          "title": "Constitución Política",
+          "href": "/doc/Personal/Normateca/ConstitucionPoliticaDeLosEstadosUnidosMexicanos.pdf",
+          "isTargetBlank": true,
+          "children": []
+        },
+        {
+          "id": "ley-federal-del-trabajo",
+          "title": "Ley Federal del Trabajo",
+          "href": "/doc/Personal/Normateca/LeyFederalDelTrabajo.pdf",
+          "isTargetBlank": true,
+          "children": []
+        },
+        {
+          "id": "reglamento-condiciones-generales-sep",
+          "title": "Reglamento Condiciones Generales SEP",
+          "href": "/doc/Personal/Normateca/ReglamientoCondicionesGeneralesSEP.pdf",
+          "isTargetBlank": true,
+          "children": []
+        },
+        {
+          "id": "ley-federal-de-los-trabajadores-al-servicio-del-estado",
+          "title": "Ley Federal de los Trabajadores al Servicio del Estado",
+          "href": "/doc/Personal/Normateca/LeyFederalDeLosTrabajadoresAlServidoDelEstado.pdf",
+          "isTargetBlank": true,
+          "children": []
+        },
+        {
+          "id": "manual-de-ingresos-propios",
+          "title": "Manual de Ingresos Propios",
+          "href": "/doc/Personal/Normateca/ManualDeIngresosPropios.pdf",
+          "isTargetBlank": true,
+          "children": []
+        },
+        {
+          "id": "codigos-etica-y-conducta-tecnm",
+          "title": "Códigos de Ética y de Conducta TecNM",
+          "href": "/doc/Personal/Normateca/CdigosdeEticaydeConductaTecNM.pdf",
+          "isTargetBlank": true,
+          "children": []
+        },
+        {
+          "id": "codigo-de-etica-de-los-servidores-publicos",
+          "title": "Código de Ética de los Servidores Públicos",
+          "href": "/doc/Institucion/CodigodeEticaSFP2022.pdf",
+          "isTargetBlank": true,
+          "children": []
+        },
+        {
+          "id": "carta-informativa-de-proveedor",
+          "title": "Carta Informativa De Proveedor",
+          "href": "/doc/Personal/Normateca/PlantillaCartaInformativaProveedores.docx",
+          "isTargetBlank": true,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "correo-institucional",
+      "title": "Correo Institucional",
+      "href": "https://www.office.com",
+      "isTargetBlank": true,
+      "children": []
+    }
+  ]
+}

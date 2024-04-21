@@ -1,0 +1,34 @@
+{
+  "careers": [
+    {
+      "enlace": "/oferta/industrial",
+      "img": "/image/institucion/logotipos/industrial-mostrar.png",
+      "carrera": "Industrial",
+      "clase": "color_industrial"
+    },
+    {
+      "enlace": "/oferta/electromecanica",
+      "img": "/image/institucion/logotipos/electro-mostrar.png",
+      "carrera": "Electromecánica",
+      "clase": "color_electro"
+    },
+    {
+      "enlace": "/oferta/sistemas",
+      "img": "/image/institucion/logotipos/sistemas-mostrar.png",
+      "carrera": "en Sistemas Computacionales",
+      "clase": "color_tec"
+    },
+    {
+      "enlace": "/oferta/gestion",
+      "img": "/image/institucion/logotipos/gestion-mostrar.png",
+      "carrera": "en Gestión Empresarial",
+      "clase": "color_gestion"
+    },
+    {
+      "enlace": "/oferta/renovables",
+      "img": "/image/institucion/logotipos/renovables-mostrar.png",
+      "carrera": "en Energías Renovables",
+      "clase": "color_renovables"
+    }
+  ]
+}

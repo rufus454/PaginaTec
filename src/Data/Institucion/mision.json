@@ -1,0 +1,19 @@
+{
+  "elements": [
+    {
+      "title": "Misión",
+      "text": "Formar profesionistas de excelencia en el ámbito de la ciencia y la tecnología, capaces de propiciar el desarrollo y transformación de su entorno, a través de programas educativos de calidad pertinentes.",
+      "src": "/image/institucion/valores/valores12.jpg"
+    },
+    {
+      "title": "Visión",
+      "text": "Ser una institución educativa que se distinga como uno de los elementos fundamentales del desarrollo sustentable, permanente y equitativo del estado.",
+      "src": "/image/institucion/valores/valores4.jpg"
+    },
+    {
+      "title": "Valores",
+      "text": "<b>Honestidad: </b> Es la cualidad humana que consiste en comportarse y expresarse con coherencia y sinceridad, y de acuerdo con los valores de verdad y justicia. <br /> <b>Responsabilidad: </b> Capacidad u obligación de responder de los actos propios y en algunos casos de los ajenos.<br /> <b>Respeto: </b> Consiste en saber valorar los intereses y necesidades de otro individuo.<br /> <b>Compromiso: </b> Se utiliza para referirse a cualquier tipo de acuerdo en el cual las partes asumen ciertas obligaciones.<br /> <b>Lealtad:</b> Cumplimiento de las leyes de la fidelidad y el honor, amor o gratitud que se muestran al hombre.",
+      "src": "/image/institucion/valores/halcon.jpg"
+    }
+  ]
+}

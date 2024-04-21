@@ -1,0 +1,403 @@
+{
+  "directory": [
+    {
+      "title": "Departamentos",
+      "headers": ["Departamento", "Responsable", "Correo Electrónico", "Tel."],
+      "rows": [
+        [
+          "Dirección",
+          "Lic. Lilian Karina Santiesteban Torres",
+          "direccion@delicias.tecnm.mx",
+          "639 1592052"
+        ],
+        [
+          "Subdirección Académica",
+          "Ing. Mirna Aracely Acosta Rodríguez",
+          "subacad@delicias.tecnm.mx",
+          "639 1592027"
+        ],
+        [
+          "Subdirección de Planeación",
+          "Ing. Hilario Ramírez Moreno",
+          "subplan@delicias.tecnm.mx",
+          "639 1592027"
+        ],
+        [
+          "Subdirección Administrativa",
+          "-",
+          "subadmi@delicias.tecnm.mx",
+          "639 1592027"
+        ],
+        [
+          "Departamento de Industrial",
+          "Ing. Emmanuel Morales Chávez",
+          "industrial@delicias.tecnm.mx",
+          "-"
+        ],
+        [
+          "Departamento de Metal-Mecánica",
+          "Ing. Lenin Ernesto Casillas Ituarte",
+          "metalmecanica@delicias.tecnm.mx",
+          "-"
+        ],
+        [
+          "Departamento de Sistemas y Computación",
+          "Ing. Cesar Adán Acosta Armendáriz",
+          "sistemas@delicias.tecnm.mx",
+          "-"
+        ],
+        [
+          "Departamento de Centro de Computo",
+          "Ing. Jorge Luis González Hernández",
+          "ccomputo@delicias.tecnm.mx",
+          "-"
+        ],
+        [
+          "Departamento de Ciencias Básicas",
+          "Ing. Antonio Álvarez Sánchez",
+          "ciencias.basicas@delicias.tecnm.mx",
+          "-"
+        ],
+        [
+          "Departamento de Desarrollo Academico",
+          "Dr. Erick Abdul Ayabar Valles",
+          "dacademico@delicias.tecnm.mx",
+          "639 1681321"
+        ],
+        [
+          "División de Estudios Profesionales",
+          "Ing. David Álvarez Sánchez",
+          "divestudios@delicias.tecnm.mx",
+          "639 1592177"
+        ],
+        [
+          "Departamento de Planeación",
+          "Q.B.P. Luz Yazmín Moreno Chacón",
+          "planeacion@delicias.tecnm.mx",
+          "-"
+        ],
+        [
+          "Departamento de Comunicación y Difusión",
+          "Lic. Raúl Vázquez Tiscareño",
+          "comunicacion@delicias.tecnm.mx",
+          "-"
+        ],
+        [
+          "Centro de Información",
+          "Ing. Alejandro Cortez Cortez",
+          "cinformacion@delicias.tecnm.mx",
+          "-"
+        ],
+        [
+          "Departamento de Gestión Tecnológica",
+          "Ing. Judith Fabiola Salcido Martínez  ",
+          "gestiontec@delicias.tecnm.mx",
+          "639 1593076"
+        ],
+        [
+          "Departamento de Servicios Escolares",
+          "Lic. Luz María Rodríguez Pérez",
+          "servicios.escolares@delicias.tecnm.mx",
+          "639 1593901"
+        ],
+        [
+          "Departamento de Actividades Extraescolares",
+          "Ing. Javier Hinostroza Alcantar",
+          "aextraescolares@delicias.tecnm.mx",
+          "-"
+        ],
+        [
+          "Departamento de Recursos Humanos",
+          "C.P. Victor Hugo Monarrez Pacheco",
+          "rhumanos@delicias.tecnm.mx",
+          "-"
+        ],
+        [
+          "Departamento de Recursos Materiales",
+          "Ing. Ofelia Teresa Bejarano Urrutia",
+          "materiales@delicias.tecnm.mx",
+          "-"
+        ],
+        [
+          "Departamento de Mantenimiento de Equipo",
+          "Ing. Jesús José Bolívar Holguín",
+          "mantenimiento@delicias.tecnm.mx",
+          "-"
+        ],
+        [
+          "Departamento de Recursos Financieros",
+          "Lic. Adrián Enrique Aguirre Velasco",
+          "recursos.financieros@delicias.tecnm.mx",
+          "639 1599751"
+        ],
+        [
+          "Departamento de Ciencias Económico Administrativo",
+          "C.P. Rosalinda García Canton",
+          "ciencias.ecoadmo@delicias.tecnm.mx",
+          "-"
+        ]
+      ]
+    },
+    {
+      "title": "Departamento de Ciencias Básicas",
+      "headers": ["Docente", "Correo Electrónico", "Extensión"],
+      "rows": [
+        [
+          "Ing. Ángel Gabriel Álvarez Avilés",
+          "angel.aa@delicias.tecnm.mx",
+          "-"
+        ],
+        ["Ing. Elda Irasema Baeza Guevara", "elda.bg@delicias.tecnm.mx", "-"],
+        ["Dr. Rosario Baray Guerrero", "-", "-"],
+        ["Ing. Horacio Corral Moreno", "horacio.cm@delicias.tecnm.mx", "-"],
+        ["Ing. Joel Chávez Sánchez", "joel.cs@delicias.tecnm.mx", "-"],
+        ["Arq. Elia Margarita Mata Sáenz", "elia.ms@delicias.tecnm.mx", "-"],
+        [
+          "Arq. María de los Ángeles Mata Sáenz",
+          "maria.ms@delicias.tecnm.mx",
+          "-"
+        ],
+        ["Ing. Manuel Montes Montoya", "joel.cs@delicias.tecnm.mx", "-"],
+        [
+          "Ing. Elizardo Porras Armendáriz",
+          "elizardo.pa@delicias.tecnm.mx",
+          "-"
+        ],
+        [
+          "Ing. Martín Alejandro Salinas Pérez",
+          "martin.sp@delicias.tecnm.mx",
+          "-"
+        ],
+        [
+          "Ing. Mirna Araceli Acosta Rodríguez",
+          "mirna.ag@delicias.tecnm.mx",
+          "-"
+        ],
+        ["Ing. Hilario Ramírez Moreno", "hilario.rm@delicias.tecnm.mx", "-"],
+        ["Ing. Cyntia Araiza Delgado", "cyntia.ad@delicias.tecnm.mx", "-"],
+        ["Ing. Antonio Álvarez Delgado", "antonio.ad@delicias.tecnm.mx", "-"],
+        [
+          "Quim. Vladimir Links Estupiñón López",
+          "vladimir.el@delicias.tecnm.mx",
+          "-"
+        ],
+        ["Quim. Luz Yazmín Moreno Chacón", "luz.mc@delicias.tecnm.mx", "-"],
+        ["Ing. Javier Álvarez Martínez", "javier.am@delicias.tecnm.mx", "-"]
+      ]
+    },
+    {
+      "title": "Departamento de Sistemas y Computación",
+      "headers": ["Docente", "Correo Electrónico", "Extensión"],
+      "rows": [
+        [
+          "Ing. Rocío Catalina Nevarez González",
+          "rocio.ng@delicias.tecnm.mx",
+          "-"
+        ],
+        ["Ing. Osvaldo Javier Díaz Avila", "osvaldo.da@delicias.tecnm.mx", "-"],
+        ["Lic. Sofía Irene Diaz Ortiz", "sofia.do@delicias.tecnm.mx", "-"],
+        ["Ing. Gerardo García Zoto", "gerardo.gz@delicias.tecnm.mx", "-"],
+        ["Lic. Jesús Rey Gómez Carrasco", "jesus.gc@delicias.tecnm.mx", "-"],
+
+        [
+          "Ing. Victor Manuel Gonzáles Miranda",
+          "victor.gm@delicias.tecnm.mx",
+          "-"
+        ],
+        ["Lic. José Dolores Hernández", "jose.dh@delicias.tecnm.mx", "-"],
+        [
+          "Lic. Yamel Yadira Holguín Negrete",
+          "yamel.hn@delicias.tecnm.mx",
+          "-"
+        ],
+        ["Ing. Johan Pérez Fonseca", "johan.pf@delicias.tecnm.mx", "-"],
+        [
+          "Ing. Jorge Luis Gonzáles Hernández",
+          "jorge.gh@delicias.tecnm.mx",
+          "-"
+        ],
+        ["Ing. Luis Raúl Luján Vega", "luis.lv@delicias.tecnm.mx", "-"],
+        [
+          "Lic. Gustavo Alfredo Nuñez Vaeza",
+          "gustavo.nv@delicias.tecnm.mx",
+          "-"
+        ],
+        ["Lic. Alicia Robles Ruiz", "alicia.rr@delicias.tecnm.mx", "-"],
+        ["Lic. Sandra Rodríguez Rios", "sandra.rr@delicias.tecnm.mx", "-"],
+
+        [
+          "Lic. David Arnoldo Valtierrez Ángel",
+          "david.va@delicias.tecnm.mx",
+          "-"
+        ],
+        [
+          "Lic. Jesús José Contreras Martínez",
+          "jesus.cm@delicias.tecnm.mx",
+          "-"
+        ],
+        ["Lic. Leticia Lizarraga Velarde", "leticia.lv@delicias.tecnm.mx", "-"],
+        ["Lic. Raúl Vázquez Tiscareño", "raul.vt@delicias.tecnm.mx", "-"]
+      ]
+    },
+    {
+      "title": "Departamento de Industrial",
+      "headers": ["Docente", "Correo Electrónico", "Extensión"],
+      "rows": [
+        [
+          "Ing. Mario Abelardo Aguirre Orozco",
+          "mario.ao@delicias.tecnm.mx",
+          "-"
+        ],
+        ["Ing. Erick Abdul Ayabar Valles", "erick.av@delicias.tecnm.mx", "-"],
+        [
+          "Ing. Teresa Lizette Canales Castillo",
+          "teresa.cc@delicias.tecnm.mx",
+          "-"
+        ],
+        ["Ing. Julio César Chavarria Ortíz", "julio.co@delicias.tecnm.mx", "-"],
+        ["Ing. Jesús Arturo Cháves Pineda", "jesus.cp@delicias.tecnm.mx", "-"],
+        [
+          "Ing. Manuel Armando Chavíra Martinez",
+          "manuel.cm@delicias.tecnm.mx",
+          "-"
+        ],
+        [
+          "Ing. Lilia Esther Delgadillo Martínez",
+          "lilia.dm@delicias.tecnm.mx",
+          "-"
+        ],
+        [
+          "Ing. Martha Lilia Delgado Martinez",
+          "martha.dm@delicias.tecnm.mx",
+          "-"
+        ],
+        [
+          "Ing. Martín Eduardo Diaz Cazares",
+          "martin.dc@delicias.tecnm.mx",
+          "-"
+        ],
+        [
+          "Ing. Evaristo Escobedo Rodríguez",
+          "evaristo.er@delicias.tecnm.mx",
+          "-"
+        ],
+        [
+          "Ing. Maria Teresa Gutiérrez Escajeda",
+          "maria.ge@delicias.tecnm.mx",
+          "-"
+        ],
+        ["Ing. Olivia Márques Monarrez", "olivia.mm@delicias.tecnm.mx", "-"],
+        ["Ing. Reyes Méndez Tarango", "reyes.mt@delicias.tecnm.mx", "-"],
+        ["Ing. José Socorro Morales Aguilar", "jose.ma@delicias.tecnm.mx", "-"],
+        ["Ing. Jesús Armando Núñez", "jesus.an@delicias.tecnm.mx", "-"],
+        ["Ing. Luis Alfonso López Prieto", "luis.lp@delicias.tecnm.mx", "-"],
+        ["Ing. Emmanuel Morales Chávez", "emmanuel.mc@delicias.tecnm.mx", "-"]
+      ]
+    },
+    {
+      "title": "Departamento de Ciencias Económico-Administrativo",
+      "headers": ["Docente", "Correo Electrónico", "Extensión"],
+      "rows": [
+        ["Ing. Jorge Luis Alba Aldaz", "jorge.aa@delicias.tecnm.mx", "-"],
+        ["C.P. Dora Elia Estrada Valles", "dora.ev@delicias.tecnm.mx", "-"],
+        ["Lic. Joaquín Fernández Serrata", "joaquin.fs@delicias.tecnm.mx", "-"],
+        ["C.P. Laura Imelda Franco Díaz", "laura.fd@delicias.tecnm.mx", "-"],
+        [
+          "C.P. María de Lourdes Grandes Gómez",
+          "maria.gg@delicias.tecnm.mx",
+          "-"
+        ],
+        ["Lic. Tamara Quiroz Guzmán", "tamara.qg@delicias.tecnm.mx", "-"],
+        ["Lic. Luz Mairía Rodríguez Pérez", "luz.RP@delicias.tecnm.mx", "-"],
+        [
+          "Lic. Luisa Fernanda Villareal Stoopen",
+          "luisa.vs@delicias.tecnm.mx",
+          "-"
+        ],
+        ["Lic. Rosalinda García Cantón", "rosalinda.gc@delicias.tecnm.mx", "-"],
+        ["Lic. Ana Gabriela Anzurez Torres", "ana.am@delicias.tecnm.mx", "-"],
+        [
+          "Lic. María Armida Álvarez Martínez",
+          "maria.am@delicias.tecnm.mx",
+          "-"
+        ],
+        ["C.P. Ana Gabriela Franco Díaz", "ana.fd@delicias.tecnm.mx", "-"],
+        [
+          "C.P. Victor Hugo Monarrez Pacheco",
+          "victor.mp@delicias.tecnm.mx",
+          "-"
+        ],
+        ["Ing. Jaime Maese Ávila", "jaime.ma@delicias.tecnm.mx", "-"],
+        [
+          "Dr. Brenda Marily Alvarado Pimentel",
+          "brenda.ap@delicias.tecnm.mx",
+          "-"
+        ],
+        [
+          "Lic. Martina Cecilia González Cereceres",
+          "martina.gc@delicias.tecnm.mx",
+          "-"
+        ],
+        [
+          "C.P. Julieta Martínez Cereceres",
+          "julieta.mc@delicias.tecnm.mx",
+          "-"
+        ],
+        [
+          "Lic. Cynthia Rodríguez Talamantes",
+          "cynthia.rt@delicias.tecnm.mx",
+          "-"
+        ],
+        [
+          "Lic. Carlos Alejandro Uribe Avalos",
+          "carlos.ua@delicias.tecnm.mx",
+          "-"
+        ],
+        ["Lic. Rosa Hilda Trejo Lara", "rosa.tl@delicias.tecnm.mx", "-"]
+      ]
+    },
+    {
+      "title": "Departamento de Metal-Mecánica",
+      "headers": ["Docente", "Correo Electrónico", "Extensión"],
+      "rows": [
+        ["Ing. Saúl Acosta Nájera", "saul.an@delicias.tecnm.mx", "-"],
+        [
+          "Ing. Sandra Isabel Carrillo Modesto",
+          "sandra.cm@delicias.tecnm.mx",
+          "-"
+        ],
+        ["Ing. Jesús Hinojosa Gómez", "jesus.hg@delicias.tecnm.mx", "-"],
+
+        ["Ing. Salvador Lara García", "salvador.lg@delicias.tecnm.mx", "-"],
+        ["Ing. Jaime Sánchez Rivera", "jaime.sr@delicias.tecnm.mx", "-"],
+        ["Ing. Juan Carlos Sandoval Moreno", "juan.sm@delicias.tecnm.mx", "-"],
+        ["Ing. Fernando Torres Guevara", "fernando.tg@delicias.tecnm.mx", "-"],
+        ["Ing. David Urita Echeverria", "david.ue@delicias.tecnm.mx", "-"],
+        [
+          "Ing. Jesús Alfredo Velasquez Hernández",
+          "jesus.vh@delicias.tecnm.mx",
+          "-"
+        ],
+        [
+          "Ing. Ofelia Teresa Bejarano Urrutia",
+          "ofelia.bu@delicias.tecnm.mx",
+          "-"
+        ],
+        ["Lic. Jesús Rodríguez López", "jesus.rl@delicias.tecnm.mx", "-"],
+        ["Ing. Ramón Iván Casillas Arrieta", "ramón.ca@delicias.tecnm.mx", "-"],
+        [
+          "Ing. Lenin Ernesto Casillas Ituarte",
+          "lenin.ci@delicias.tecnm.mx",
+          "-"
+        ],
+        ["Ing. Alejandro Cortez Cortez", "alejandro.cc@delicias.tecnm.mx", "-"],
+        ["Ing. David Álvarez Sánchez", "david.as@delicias.tecnm.mx", "-"],
+        [
+          "Ing. Luis Roberto Martinez Rodríguez",
+          "luis.mr@delicias.tecnm.mx",
+          "-"
+        ]
+      ]
+    }
+  ]
+}

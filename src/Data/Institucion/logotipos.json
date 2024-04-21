@@ -1,0 +1,64 @@
+{
+  "logos": [
+    {
+      "name": "Tecnologico de Delicias",
+      "image": "/image/institucion/logotipos/itDelicias.png",
+      "src": "/image/institucion/logotipos/itDelicias-mostrar.png"
+    },
+    {
+      "name": "Tecnologico de Delicias Gris",
+      "image": "/image/institucion/logotipos/itDelicias-gris.png",
+      "src": "/image/institucion/logotipos/itDelicias-gris-mostrar.png"
+    },
+    {
+      "name": "Tecnologico Nacional de Mexico",
+      "image": "/image/institucion/logotipos/TecNM.png",
+      "src": "/image/institucion/logotipos/tecNM-mostrar.png"
+    },
+    {
+      "name": "SEP",
+      "image": "/image/institucion/logotipos/SEP.png",
+      "src": "/image/institucion/logotipos/SEP-mostrar.png"
+    },
+    {
+      "name": "Ingenieria en Sistemas Computacionales",
+      "image": "/image/institucion/logotipos/sistemas.png",
+      "src": "/image/institucion/logotipos/sistemas-mostrar.png"
+    },
+    {
+      "name": "Ingenieria Electromecanica",
+      "image": "/image/institucion/logotipos/electromecanica.png",
+      "src": "/image/institucion/logotipos/electro-mostrar.png"
+    },
+    {
+      "name": "Ingenieria en Gestión Empresarial",
+      "image": "/image/institucion/logotipos/gestion.png",
+      "src": "/image/institucion/logotipos/gestion-mostrar.png"
+    },
+    {
+      "name": "Ingenieria Industrial",
+      "image": "/image/institucion/logotipos/industrial.png",
+      "src": "/image/institucion/logotipos/industrial-mostrar.png"
+    },
+    {
+      "name": "Ingeniería en Energias Renovables",
+      "image": "/image/institucion/logotipos/renovables.png",
+      "src": "/image/institucion/logotipos/renovables-mostrar.png"
+    },
+    {
+      "name": "Departamento de Computacion",
+      "image": "/image/institucion/logotipos/departamento-computacion.png",
+      "src": "/image/institucion/logotipos/departamento-de-computacion-mostrar.png"
+    },
+    {
+      "name": "Mascota",
+      "image": "/image/institucion/logotipos/mascota.png",
+      "src": "/image/institucion/logotipos/mascota-mostrar.png"
+    },
+    {
+      "name": "Nombre",
+      "image": "/image/institucion/logotipos/mascota-nombre.png",
+      "src": "/image/institucion/logotipos/mascota-nombre-mostrar.png"
+    }
+  ]
+}

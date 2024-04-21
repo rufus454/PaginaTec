@@ -1,0 +1,20 @@
+{
+  "id": "Contactanos",
+  "title": "Contáctanos",
+  "subItems": [
+    {
+      "id": "contacto",
+      "title": "Contacto",
+      "href": "mailto:comunicacion@delicias.tecnm.mx",
+      "isTargetBlank": false,
+      "children": []
+    },
+    {
+      "id": "quejas-y-sugerencias",
+      "title": "Quejas y Sugerencias",
+      "href": "http://sig.itdelicias.edu.mx:8080/quejasysugerencias",
+      "isTargetBlank": true,
+      "children": []
+    }
+  ]
+}

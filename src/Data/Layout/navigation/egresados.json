@@ -1,0 +1,20 @@
+{
+  "id": "Egresados",
+  "title": "Egresados",
+  "subItems": [
+    {
+      "id": "egresados-inicio",
+      "title": "Inicio",
+      "href": "/egresados",
+      "isTargetBlank": false,
+      "children": []
+    },
+    {
+      "id": "sistema-seguimiento-egresados",
+      "title": "Seguimiento Egresados",
+      "href": "https://sse.delicias.tecnm.mx/",
+      "isTargetBlank": true,
+      "children": []
+    }
+  ]
+}

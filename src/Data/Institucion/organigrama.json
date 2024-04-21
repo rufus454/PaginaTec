@@ -1,0 +1,114 @@
+{
+    "cards": [
+      {
+        "src": "/image/institucion/organigramas/Direccion3.png",
+        "name": "Dirección",
+        "email": "direccion@delicias.tecnm.mx"
+      },
+      {
+        "src": "/image/institucion/organigramas/Subdireccion-academica.png",
+        "name": "Subdirección Académica",
+        "email": "subacad@delicias.tecnm.mx"
+      },
+      {
+        "src": "/image/institucion/organigramas/subdireccion-de-vinculacion-y-planeacion.png",
+        "name": "Subdirección de Planeación",
+        "email": "subplan@delicias.tecnm.mx"
+      },
+      {
+        "src": "/image/institucion/organigramas/Subdireccion-de-servicios-administrativos.png",
+        "name": "Subdirección Administrativa",
+        "email": "subadmi@delicias.tecnm.mx"
+      },
+      {
+        "src": "/image/institucion/organigramas/Ingenieria-Industrial.png",
+        "name": "Departamento de Industrial",
+        "email": "industrial@delicias.tecnm.mx"
+      },
+      {
+        "src": "/image/institucion/organigramas/Metal-Mecanica.png",
+        "name": "Departamento de Metal Mecánica",
+        "email": "metalmecanica@delicias.tecnm.mx"
+      },
+      {
+        "src": "/image/institucion/organigramas/Sistemas-y-computacion.png",
+        "name": "Departamento de Sistemas y Computación",
+        "email": "sistemas@delicias.tecnm.mx"
+      },
+      {
+        "src": "/image/institucion/organigramas/Centro-de-Computo.png",
+        "name": "Centro de Cómputo",
+        "email": "ccomputo@delicias.tecnm.mx"
+      },
+      {
+        "src": "/image/institucion/organigramas/Ciencias-Basicas.png",
+        "name": "Departamento de Ciencias Básicas",
+        "email": "ciencias.basicas@delicias.tecnm.mx"
+      },
+      {
+        "src": "/image/institucion/organigramas/Desarrollo-Academico.png",
+        "name": "Departamento de Desarrollo Académico",
+        "email": "dacademico@delicias.tecnm.mx"
+      },
+      {
+        "src": "/image/institucion/organigramas/Division-de-estudios-profesionales.png",
+        "name": "División de Estudios Profesionales",
+        "email": "divestudios@delicias.tecnm.mx"
+      },
+      {
+        "src": "/image/institucion/organigramas/Planeacion-Programacion-y-Presupuestacion.png",
+        "name": "Departamento de Planeación",
+        "email": "planeacion@delicias.tecnm.mx"
+      },
+      {
+        "src": "/image/institucion/organigramas/Departamento-de-Comunicacion-y-Difusion.png",
+        "name": "Departamento de Comunicación y Difusión",
+        "email": "comunicacion@delicias.tecnm.mx"
+      },
+      {
+        "src": "/image/institucion/organigramas/Centro-de-Informacion.png",
+        "name": "Centro de Información",
+        "email": "cinformacion@delicias.tecnm.mx"
+      },
+      {
+        "src": "/image/institucion/organigramas/Gestion-Tecnologica-y-Vinculacion.png",
+        "name": "Departamento de Gestión Tecnológica",
+        "email": "gestiontec@delicias.tecnm.mx"
+      },
+      {
+        "src": "/image/institucion/organigramas/Servicios-Escolares.png",
+        "name": "Departamento de Servicios Escolares",
+        "email": "servicios.escolares@delicias.tecnm.mx"
+      },
+      {
+        "src": "/image/institucion/organigramas/Actividades-Extraescolares.png",
+        "name": "Departamento de Actividades Extraescolares",
+        "email": "aextraescolares@delicias.tecnm.mx"
+      },
+      {
+        "src": "/image/institucion/organigramas/Recursos-Humanos.png",
+        "name": "Departamento de Recursos Humanos",
+        "email": ""
+      },
+      {
+        "src": "/image/institucion/organigramas/Recursos-Materiales.png",
+        "name": "Departamento de Recursos Materiales",
+        "email": "materiales@delicias.tecnm.mx"
+      },
+      {
+        "src": "/image/institucion/organigramas/Mantenimiento-de-Equipo.png",
+        "name": "Departamento de Mantenimiento",
+        "email": "mantenimiento@delicias.tecnm.mx"
+      },
+      {
+        "src": "/image/institucion/organigramas/Recursos-Financieros.png",
+        "name": "Departamento de Recursos Financieros",
+        "email": "recursos.financieros@delicias.tecnm.mx"
+      },
+      {
+        "src": "/image/institucion/organigramas/Ciencias-Economico-Administrativo.png",
+        "name": "Departamento de Ciencias Económico Administrativo",
+        "email": "ciencias.ecoadmo@delicias.tecnm.mx"
+      }
+    ]
+}
